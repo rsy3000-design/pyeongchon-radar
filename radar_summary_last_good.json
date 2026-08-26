@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-08-26T09:33:54+09:00",
-  "runId": "YozE4leXMgkE53FSm",
+  "collectedAtKST": "2026-08-26T10:58:14+09:00",
+  "runId": "G7H6LWpkOEpY8kpzN",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 7,
   "successfulTargetCount": 7,
@@ -30,7 +30,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 10,
+        "count": 11,
         "minPrice": 1100000000,
         "maxPrice": 1400000000,
         "medianPrice": 1200000000,
@@ -41,7 +41,7 @@
         "radarNormalCandidateCount": 6,
         "detailCheckedCount": 6,
         "detailSuccessCount": 6,
-        "detailTargetMax": 10,
+        "detailTargetMax": 11,
         "detailScope": "dynamic_min_6_normal_3_max_12"
       },
       "bestListings": [
@@ -1627,8 +1627,8 @@
           "dealPrice": 1130000000,
           "exclusiveArea": 84.94,
           "pyeongTypeNumber": 3,
-          "dongName": null,
-          "floorText": null,
+          "dongName": "136",
+          "floorText": "13/20층",
           "description": null,
           "detailFound": true,
           "detailSkipped": null,
@@ -3465,7 +3465,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 10,
+        "count": 11,
         "minPrice": 1100000000,
         "maxPrice": 1400000000,
         "medianPrice": 1200000000,
@@ -3476,7 +3476,7 @@
         "radarNormalCandidateCount": 6,
         "detailCheckedCount": 6,
         "detailSuccessCount": 6,
-        "detailTargetMax": 10,
+        "detailTargetMax": 11,
         "detailScope": "dynamic_min_6_normal_3_max_12"
       },
       "bestListings": [
@@ -5071,8 +5071,8 @@
           "dealPrice": 1130000000,
           "exclusiveArea": 84.94,
           "pyeongTypeNumber": 3,
-          "dongName": null,
-          "floorText": null,
+          "dongName": "136",
+          "floorText": "13/20층",
           "description": null,
           "detailFound": true,
           "detailSkipped": null,
