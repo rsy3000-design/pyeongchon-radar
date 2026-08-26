@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "1.0",
+  "type": "pyeongchon_radar_health",
+  "collectedAtKST": "2026-08-26T09:33:54+09:00",
+  "runId": "YozE4leXMgkE53FSm",
+  "status": "DEGRADED",
+  "flags": [
+    "DATA_QUALITY_WARNING"
+  ],
+  "selfTestPassed": true,
+  "selfTestIssues": [],
+  "successfulTargetCount": 7,
+  "targetCount": 7,
+  "allTargetsSuccessful": true,
+  "summaryQualityStatus": "WARNING",
+  "summaryQualityFlags": [
+    "TARGET_QUALITY_WARNING"
+  ],
+  "githubTokenConfigured": true,
+  "githubMirrorAllSuccessful": true,
+  "githubMirrorSuccessCount": 9,
+  "githubMirrorTotalCount": 9,
+  "githubResults": [
+    {
+      "success": true,
+      "path": "radar_summary.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/radar_summary.json"
+    },
+    {
+      "success": true,
+      "path": "radar_summary_last_good.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/radar_summary_last_good.json"
+    },
+    {
+      "success": true,
+      "path": "targets/1454.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/1454.json"
+    },
+    {
+      "success": true,
+      "path": "targets/1462.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/1462.json"
+    },
+    {
+      "success": true,
+      "path": "targets/8481.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/8481.json"
+    },
+    {
+      "success": true,
+      "path": "targets/3076.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/3076.json"
+    },
+    {
+      "success": true,
+      "path": "targets/1993.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/1993.json"
+    },
+    {
+      "success": true,
+      "path": "targets/19492.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/19492.json"
+    },
+    {
+      "success": true,
+      "path": "targets/1470.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/1470.json"
+    }
+  ],
+  "apifySummaryUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
+  "githubSummaryRawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/radar_summary.json",
+  "githubHealthRawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/radar_health.json",
+  "githubLastGoodRawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/radar_summary_last_good.json",
+  "githubSummaryPagesUrl": "https://rsy3000-design.github.io/pyeongchon-radar/radar_summary.json",
+  "githubHealthPagesUrl": "https://rsy3000-design.github.io/pyeongchon-radar/radar_health.json",
+  "githubLastGoodPagesUrl": "https://rsy3000-design.github.io/pyeongchon-radar/radar_summary_last_good.json",
+  "publicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_HEALTH?signature=1Oe3PezQZ4hZwvLwEks92"
+}
