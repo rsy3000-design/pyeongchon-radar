@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-08-26T13:04:17+09:00",
-  "runId": "jVOr9JbnNoZF4dsWC",
+  "collectedAtKST": "2026-08-26T13:15:40+09:00",
+  "runId": "eYuhjhE3ssNix6gac",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 7,
   "successfulTargetCount": 7,
