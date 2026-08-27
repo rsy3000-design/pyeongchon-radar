@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-08-27T07:01:06+09:00",
+  "collectedAtKST": "2026-08-28T07:00:51+09:00",
   "name": "샛별한양2,3단지",
   "targetLabel": "84㎡",
   "complexNumber": 1454,
@@ -120,12 +120,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2644656638"
     },
     {
-      "articleNumber": "2645891435",
+      "articleNumber": "2646001617",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
       "dongName": "302",
-      "floorText": "6/23층",
+      "floorText": "11/23층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -134,10 +134,10 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2645891435"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2646001617"
     },
     {
-      "articleNumber": "2645821723",
+      "articleNumber": "2645891435",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -151,7 +151,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2645821723"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2645891435"
     },
     {
       "articleNumber": "2645481638",
@@ -294,12 +294,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2644656638"
     },
     {
-      "articleNumber": "2645891435",
+      "articleNumber": "2646001617",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
       "dongName": "302",
-      "floorText": "6/23층",
+      "floorText": "11/23층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -308,7 +308,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2645891435"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2646001617"
     }
   ],
   "lowFloorOnlyCandidates": [
