@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-08-27T07:01:06+09:00",
+  "collectedAtKST": "2026-08-28T07:00:51+09:00",
   "name": "초원6단지한양",
   "targetLabel": "84㎡",
   "complexNumber": 8481,
@@ -73,8 +73,8 @@
       "dealPrice": 1090000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "605",
-      "floorText": "고/15층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -120,12 +120,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2643147550"
     },
     {
-      "articleNumber": "2644962883",
+      "articleNumber": "2646084542",
       "dealPrice": 1130000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "611",
-      "floorText": "6/23층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -134,7 +134,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2644962883"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2646084542"
     }
   ],
   "normalCandidates": [
@@ -179,8 +179,8 @@
       "dealPrice": 1090000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "605",
-      "floorText": "고/15층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -226,12 +226,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2643147550"
     },
     {
-      "articleNumber": "2644962883",
+      "articleNumber": "2646084542",
       "dealPrice": 1130000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "611",
-      "floorText": "6/23층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -240,7 +240,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2644962883"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2646084542"
     }
   ],
   "lowFloorOnlyCandidates": [
