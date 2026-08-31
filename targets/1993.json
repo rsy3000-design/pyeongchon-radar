@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-08-31T07:00:59+09:00",
+  "collectedAtKST": "2026-09-01T07:00:30+09:00",
   "name": "관악부영",
   "targetLabel": "84㎡",
   "complexNumber": 1993,
@@ -38,16 +38,14 @@
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
       "dongName": "204",
-      "floorText": "저/10층",
+      "floorText": "3/10층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
       "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
+      "specialReasons": [],
       "hardSpecialReasons": [],
-      "lowFloorOnly": true,
+      "lowFloorOnly": false,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2644441671"
     },
@@ -167,16 +165,14 @@
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
       "dongName": "204",
-      "floorText": "저/10층",
+      "floorText": "3/10층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
       "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
+      "specialReasons": [],
       "hardSpecialReasons": [],
-      "lowFloorOnly": true,
+      "lowFloorOnly": false,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2644441671"
     },
@@ -252,25 +248,6 @@
     }
   ],
   "lowFloorOnlyCandidates": [
-    {
-      "articleNumber": "2644441671",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.63,
-      "pyeongTypeNumber": 2,
-      "dongName": "204",
-      "floorText": "저/10층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2644441671"
-    },
     {
       "articleNumber": "2644375343",
       "dealPrice": 1100000000,
