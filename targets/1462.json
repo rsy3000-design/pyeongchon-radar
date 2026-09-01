@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-01T07:00:30+09:00",
+  "collectedAtKST": "2026-09-02T07:00:35+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -17,21 +17,42 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 3,
+    "count": 4,
     "minPrice": 1000000000,
     "maxPrice": 1100000000,
-    "medianPrice": 1050000000,
+    "medianPrice": 1025000000,
     "knownNormalMinPrice": 1050000000,
     "knownNormalMaxPrice": 1100000000,
     "radarNormalCandidateMinPrice": 1000000000,
     "radarNormalCandidateMaxPrice": 1100000000,
     "radarNormalCandidateCount": 3,
-    "detailCheckedCount": 3,
-    "detailSuccessCount": 3,
-    "detailTargetMax": 3,
+    "detailCheckedCount": 4,
+    "detailSuccessCount": 4,
+    "detailTargetMax": 4,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
+    {
+      "articleNumber": "2646961219",
+      "dealPrice": 1000000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "205",
+      "floorText": "고/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2646961219"
+    },
     {
       "articleNumber": "2644107876",
       "dealPrice": 1000000000,
@@ -162,7 +183,29 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2644107876"
     }
   ],
-  "hardSpecialListings": [],
+  "hardSpecialListings": [
+    {
+      "articleNumber": "2646961219",
+      "dealPrice": 1000000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "205",
+      "floorText": "고/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2646961219"
+    }
+  ],
   "recentTrades": [
     {
       "tradeDate": "2026-07-22",
