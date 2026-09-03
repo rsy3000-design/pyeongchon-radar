@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-03T07:00:32+09:00",
+  "collectedAtKST": "2026-09-04T07:00:40+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -208,6 +208,20 @@
   ],
   "recentTrades": [
     {
+      "tradeDate": "2026-08-21",
+      "dealPrice": 950000000,
+      "floor": 6,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
+    {
       "tradeDate": "2026-07-22",
       "dealPrice": 950000000,
       "floor": 3,
@@ -482,21 +496,6 @@
       "tradeYear": "2024",
       "tradeCategory": "중개거래",
       "registrationDate": "2024-12-20",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2024-09-10",
-      "dealPrice": 705000000,
-      "floor": 14,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "tradeYear": "2024",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-06-05",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -506,6 +505,20 @@
   ],
   "referenceTrades": [
     {
+      "tradeDate": "2026-08-21",
+      "dealPrice": 950000000,
+      "floor": 6,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
+    {
       "tradeDate": "2026-07-22",
       "dealPrice": 950000000,
       "floor": 3,
@@ -780,21 +793,6 @@
       "tradeYear": "2024",
       "tradeCategory": "중개거래",
       "registrationDate": "2024-12-20",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2024-09-10",
-      "dealPrice": 705000000,
-      "floor": 14,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "tradeYear": "2024",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-06-05",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -804,6 +802,20 @@
   ],
   "pricingReferenceTrades": [
     {
+      "tradeDate": "2026-08-21",
+      "dealPrice": 950000000,
+      "floor": 6,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
+    {
       "tradeDate": "2026-07-22",
       "dealPrice": 950000000,
       "floor": 3,
@@ -1083,28 +1095,13 @@
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2024-09-10",
-      "dealPrice": 705000000,
-      "floor": 14,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "tradeYear": "2024",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-06-05",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
     }
   ],
   "tradeOutliers": [],
   "latestTrade": {
-    "tradeDate": "2026-07-22",
+    "tradeDate": "2026-08-21",
     "dealPrice": 950000000,
-    "floor": 3,
+    "floor": 6,
     "exclusiveArea": 79.02,
     "pyeongTypeNumber": 3,
     "tradeYear": "2026",
