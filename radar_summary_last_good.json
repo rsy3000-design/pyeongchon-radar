@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-09-05T07:00:26+09:00",
-  "runId": "gJVjWqsEU9aIbR8ja",
+  "collectedAtKST": "2026-09-06T07:00:59+09:00",
+  "runId": "GwfdBhax3ZvPsVgVT",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 7,
   "successfulTargetCount": 7,
@@ -19,7 +19,7 @@
       "targetLabel": "84㎡",
       "complexNumber": 1454,
       "collectionSuccess": true,
-      "attemptUsed": 1,
+      "attemptUsed": 2,
       "stage": {
         "pyeongSuccess": true,
         "askingSuccess": true,
@@ -1515,10 +1515,10 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 8,
+        "count": 7,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
-        "medianPrice": 1115000000,
+        "medianPrice": 1130000000,
         "knownNormalMinPrice": 1060000000,
         "knownNormalMaxPrice": 1150000000,
         "radarNormalCandidateMinPrice": 1060000000,
@@ -1526,7 +1526,7 @@
         "radarNormalCandidateCount": 5,
         "detailCheckedCount": 6,
         "detailSuccessCount": 6,
-        "detailTargetMax": 8,
+        "detailTargetMax": 7,
         "detailScope": "dynamic_min_6_normal_3_max_12"
       },
       "bestListings": [
@@ -1567,23 +1567,6 @@
           "lowFloorOnly": false,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2643449238"
-        },
-        {
-          "articleNumber": "2642120184",
-          "dealPrice": 1100000000,
-          "exclusiveArea": 84.94,
-          "pyeongTypeNumber": 3,
-          "dongName": "128",
-          "floorText": "중/20층",
-          "description": null,
-          "detailFound": true,
-          "detailSkipped": null,
-          "detailError": null,
-          "specialReasons": [],
-          "hardSpecialReasons": [],
-          "lowFloorOnly": false,
-          "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2642120184"
         },
         {
           "articleNumber": "2644269673",
@@ -1635,6 +1618,23 @@
           "lowFloorOnly": false,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2643828945"
+        },
+        {
+          "articleNumber": "2645605573",
+          "dealPrice": 1150000000,
+          "exclusiveArea": 84.94,
+          "pyeongTypeNumber": 3,
+          "dongName": "132",
+          "floorText": "6/17층",
+          "description": null,
+          "detailFound": true,
+          "detailSkipped": null,
+          "detailError": null,
+          "specialReasons": [],
+          "hardSpecialReasons": [],
+          "lowFloorOnly": false,
+          "normalCandidate": true,
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2645605573"
         }
       ],
       "latestTrade": {
@@ -3475,7 +3475,7 @@
       "targetLabel": "84㎡",
       "complexNumber": 1454,
       "collectionSuccess": true,
-      "attemptUsed": 1,
+      "attemptUsed": 2,
       "stage": {
         "pyeongSuccess": true,
         "askingSuccess": true,
@@ -4980,10 +4980,10 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 8,
+        "count": 7,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
-        "medianPrice": 1115000000,
+        "medianPrice": 1130000000,
         "knownNormalMinPrice": 1060000000,
         "knownNormalMaxPrice": 1150000000,
         "radarNormalCandidateMinPrice": 1060000000,
@@ -4991,7 +4991,7 @@
         "radarNormalCandidateCount": 5,
         "detailCheckedCount": 6,
         "detailSuccessCount": 6,
-        "detailTargetMax": 8,
+        "detailTargetMax": 7,
         "detailScope": "dynamic_min_6_normal_3_max_12"
       },
       "bestListings": [
@@ -5032,23 +5032,6 @@
           "lowFloorOnly": false,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2643449238"
-        },
-        {
-          "articleNumber": "2642120184",
-          "dealPrice": 1100000000,
-          "exclusiveArea": 84.94,
-          "pyeongTypeNumber": 3,
-          "dongName": "128",
-          "floorText": "중/20층",
-          "description": null,
-          "detailFound": true,
-          "detailSkipped": null,
-          "detailError": null,
-          "specialReasons": [],
-          "hardSpecialReasons": [],
-          "lowFloorOnly": false,
-          "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2642120184"
         },
         {
           "articleNumber": "2644269673",
@@ -5100,6 +5083,23 @@
           "lowFloorOnly": false,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2643828945"
+        },
+        {
+          "articleNumber": "2645605573",
+          "dealPrice": 1150000000,
+          "exclusiveArea": 84.94,
+          "pyeongTypeNumber": 3,
+          "dongName": "132",
+          "floorText": "6/17층",
+          "description": null,
+          "detailFound": true,
+          "detailSkipped": null,
+          "detailError": null,
+          "specialReasons": [],
+          "hardSpecialReasons": [],
+          "lowFloorOnly": false,
+          "normalCandidate": true,
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2645605573"
         }
       ],
       "latestTrade": {
@@ -6973,7 +6973,7 @@
     "fallbackPolicy": "오늘 실패 단지는 RADAR_*_LAST_GOOD를 effectiveTargets에 사용"
   },
   "publicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
-  "historyDate": "2026-09-05",
-  "historyRecord": "HISTORY_2026-09-05",
-  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-09-05?signature=1GUc7bb2zjH1JYVogCVM6"
+  "historyDate": "2026-09-06",
+  "historyRecord": "HISTORY_2026-09-06",
+  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-09-06?signature=1eBwaSHIf2gnCCV6gDUDP"
 }
