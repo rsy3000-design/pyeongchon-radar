@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-09-06T07:00:59+09:00",
-  "runId": "GwfdBhax3ZvPsVgVT",
+  "collectedAtKST": "2026-09-07T07:00:42+09:00",
+  "runId": "Z8Ve2YW2sMcert6B6",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 7,
   "successfulTargetCount": 7,
@@ -19,7 +19,7 @@
       "targetLabel": "84㎡",
       "complexNumber": 1454,
       "collectionSuccess": true,
-      "attemptUsed": 2,
+      "attemptUsed": 1,
       "stage": {
         "pyeongSuccess": true,
         "askingSuccess": true,
@@ -3475,7 +3475,7 @@
       "targetLabel": "84㎡",
       "complexNumber": 1454,
       "collectionSuccess": true,
-      "attemptUsed": 2,
+      "attemptUsed": 1,
       "stage": {
         "pyeongSuccess": true,
         "askingSuccess": true,
@@ -6973,7 +6973,7 @@
     "fallbackPolicy": "오늘 실패 단지는 RADAR_*_LAST_GOOD를 effectiveTargets에 사용"
   },
   "publicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
-  "historyDate": "2026-09-06",
-  "historyRecord": "HISTORY_2026-09-06",
-  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-09-06?signature=1eBwaSHIf2gnCCV6gDUDP"
+  "historyDate": "2026-09-07",
+  "historyRecord": "HISTORY_2026-09-07",
+  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-09-07?signature=ZcPQbns2N7C3ODt3KRD2"
 }
