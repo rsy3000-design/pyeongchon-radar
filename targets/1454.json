@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-09T07:00:33+09:00",
+  "collectedAtKST": "2026-09-10T07:00:47+09:00",
   "name": "샛별한양2,3단지",
   "targetLabel": "84㎡",
   "complexNumber": 1454,
@@ -137,7 +137,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2646533587"
     },
     {
-      "articleNumber": "2648258775",
+      "articleNumber": "2645821723",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -151,7 +151,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648258775"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2645821723"
     },
     {
       "articleNumber": "2648460794",
