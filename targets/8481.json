@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-09T07:00:33+09:00",
+  "collectedAtKST": "2026-09-10T07:00:47+09:00",
   "name": "초원6단지한양",
   "targetLabel": "84㎡",
   "complexNumber": 8481,
@@ -18,12 +18,12 @@
   "qualityFlags": [],
   "asking": {
     "count": 7,
-    "minPrice": 1000000000,
+    "minPrice": 980000000,
     "maxPrice": 1130000000,
     "medianPrice": 1090000000,
     "knownNormalMinPrice": 1070000000,
     "knownNormalMaxPrice": 1100000000,
-    "radarNormalCandidateMinPrice": 1000000000,
+    "radarNormalCandidateMinPrice": 980000000,
     "radarNormalCandidateMaxPrice": 1100000000,
     "radarNormalCandidateCount": 6,
     "detailCheckedCount": 6,
@@ -34,7 +34,7 @@
   "listings": [
     {
       "articleNumber": "2647398734",
-      "dealPrice": 1000000000,
+      "dealPrice": 980000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
       "dongName": "603",
@@ -157,7 +157,7 @@
   "normalCandidates": [
     {
       "articleNumber": "2647398734",
-      "dealPrice": 1000000000,
+      "dealPrice": 980000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
       "dongName": "603",
@@ -263,7 +263,7 @@
   "lowFloorOnlyCandidates": [
     {
       "articleNumber": "2647398734",
-      "dealPrice": 1000000000,
+      "dealPrice": 980000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
       "dongName": "603",
