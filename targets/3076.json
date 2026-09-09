@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-09T07:00:33+09:00",
+  "collectedAtKST": "2026-09-10T07:00:47+09:00",
   "name": "관악타운",
   "targetLabel": "84㎡",
   "complexNumber": 3076,
@@ -25,9 +25,9 @@
     "knownNormalMaxPrice": 1150000000,
     "radarNormalCandidateMinPrice": 1060000000,
     "radarNormalCandidateMaxPrice": 1150000000,
-    "radarNormalCandidateCount": 5,
+    "radarNormalCandidateCount": 4,
     "detailCheckedCount": 6,
-    "detailSuccessCount": 6,
+    "detailSuccessCount": 5,
     "detailTargetMax": 9,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
@@ -75,16 +75,16 @@
       "dealPrice": 1100000000,
       "exclusiveArea": 84.94,
       "pyeongTypeNumber": 3,
-      "dongName": "114",
-      "floorText": "중/17층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
-      "detailFound": true,
+      "detailFound": false,
       "detailSkipped": null,
-      "detailError": null,
+      "detailError": "Error: Page.goto: Navigation to \"https://fin.land.naver.com/articles/2644269673\" is interrupted by another navigation to \"https://financial.pstatic.net/404.html?text=%ED%99%88%EC%9C%BC%EB%A1%9C%20%EC%9D%B4%EB%8F%99&url=https://fin.land.naver.com/\"\nCall log:\n  - navigating to \"https://fin.land.naver.com/articles/2644269673\", waiting until \"domcontentloaded\"\n",
       "specialReasons": [],
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
-      "normalCandidate": true,
+      "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2644269673"
     },
     {
@@ -173,7 +173,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2642971155"
     },
     {
-      "articleNumber": "2648589199",
+      "articleNumber": "2648762481",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.94,
       "pyeongTypeNumber": 3,
@@ -187,7 +187,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648589199"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2648762481"
     }
   ],
   "normalCandidates": [
@@ -207,23 +207,6 @@
       "lowFloorOnly": false,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2643449238"
-    },
-    {
-      "articleNumber": "2644269673",
-      "dealPrice": 1100000000,
-      "exclusiveArea": 84.94,
-      "pyeongTypeNumber": 3,
-      "dongName": "114",
-      "floorText": "중/17층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2644269673"
     },
     {
       "articleNumber": "2648173345",
