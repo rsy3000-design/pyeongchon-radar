@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-12T07:00:45+09:00",
+  "collectedAtKST": "2026-09-13T07:00:29+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -19,12 +19,12 @@
   "asking": {
     "count": 4,
     "minPrice": 1000000000,
-    "maxPrice": 1100000000,
+    "maxPrice": 1200000000,
     "medianPrice": 1025000000,
     "knownNormalMinPrice": 1050000000,
-    "knownNormalMaxPrice": 1100000000,
+    "knownNormalMaxPrice": 1200000000,
     "radarNormalCandidateMinPrice": 1000000000,
-    "radarNormalCandidateMaxPrice": 1100000000,
+    "radarNormalCandidateMaxPrice": 1200000000,
     "radarNormalCandidateCount": 3,
     "detailCheckedCount": 4,
     "detailSuccessCount": 4,
@@ -90,8 +90,8 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2646175475"
     },
     {
-      "articleNumber": "2643460260",
-      "dealPrice": 1100000000,
+      "articleNumber": "2649393366",
+      "dealPrice": 1200000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
@@ -104,7 +104,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2643460260"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2649393366"
     }
   ],
   "normalCandidates": [
@@ -145,8 +145,8 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2646175475"
     },
     {
-      "articleNumber": "2643460260",
-      "dealPrice": 1100000000,
+      "articleNumber": "2649393366",
+      "dealPrice": 1200000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
@@ -159,7 +159,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2643460260"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2649393366"
     }
   ],
   "lowFloorOnlyCandidates": [
