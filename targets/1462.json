@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-16T07:01:06+09:00",
+  "collectedAtKST": "2026-09-17T07:00:48+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -17,18 +17,18 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 4,
+    "count": 5,
     "minPrice": 1000000000,
     "maxPrice": 1200000000,
-    "medianPrice": 1025000000,
+    "medianPrice": 1050000000,
     "knownNormalMinPrice": 1050000000,
     "knownNormalMaxPrice": 1200000000,
     "radarNormalCandidateMinPrice": 1000000000,
     "radarNormalCandidateMaxPrice": 1200000000,
-    "radarNormalCandidateCount": 3,
-    "detailCheckedCount": 4,
-    "detailSuccessCount": 4,
-    "detailTargetMax": 4,
+    "radarNormalCandidateCount": 4,
+    "detailCheckedCount": 5,
+    "detailSuccessCount": 5,
+    "detailTargetMax": 5,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
@@ -90,6 +90,23 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2646175475"
     },
     {
+      "articleNumber": "2650017900",
+      "dealPrice": 1050000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "206",
+      "floorText": "6/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650017900"
+    },
+    {
       "articleNumber": "2649393366",
       "dealPrice": 1200000000,
       "exclusiveArea": 79.02,
@@ -143,6 +160,23 @@
       "lowFloorOnly": false,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2646175475"
+    },
+    {
+      "articleNumber": "2650017900",
+      "dealPrice": 1050000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "206",
+      "floorText": "6/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650017900"
     },
     {
       "articleNumber": "2649393366",
