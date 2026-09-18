@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-18T07:00:47+09:00",
+  "collectedAtKST": "2026-09-19T07:00:43+09:00",
   "name": "무궁화건영",
   "targetLabel": "84㎡",
   "complexNumber": 1470,
@@ -67,7 +67,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2648354951"
     },
     {
-      "articleNumber": "2650341057",
+      "articleNumber": "2650637909",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.84,
       "pyeongTypeNumber": 3,
@@ -81,7 +81,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2650341057"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650637909"
     },
     {
       "articleNumber": "2649384724",
@@ -156,7 +156,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2648354951"
     },
     {
-      "articleNumber": "2650341057",
+      "articleNumber": "2650637909",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.84,
       "pyeongTypeNumber": 3,
@@ -170,7 +170,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2650341057"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650637909"
     },
     {
       "articleNumber": "2649384724",
