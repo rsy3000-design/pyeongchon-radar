@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-19T07:00:43+09:00",
+  "collectedAtKST": "2026-09-20T07:00:48+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -54,12 +54,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2646961219"
     },
     {
-      "articleNumber": "2648777182",
+      "articleNumber": "2650713880",
       "dealPrice": 1000000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
-      "floorText": "1/15층",
+      "floorText": "저/15층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -70,7 +70,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650713880"
     },
     {
       "articleNumber": "2646175475",
@@ -126,12 +126,12 @@
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2648777182",
+      "articleNumber": "2650713880",
       "dealPrice": 1000000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
-      "floorText": "1/15층",
+      "floorText": "저/15층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -142,7 +142,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650713880"
     },
     {
       "articleNumber": "2646175475",
@@ -198,12 +198,12 @@
   ],
   "lowFloorOnlyCandidates": [
     {
-      "articleNumber": "2648777182",
+      "articleNumber": "2650713880",
       "dealPrice": 1000000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
-      "floorText": "1/15층",
+      "floorText": "저/15층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -214,7 +214,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2650713880"
     }
   ],
   "hardSpecialListings": [
@@ -305,6 +305,7 @@
       "pyeongTypeNumber": 3,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-09-15",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -602,6 +603,7 @@
       "pyeongTypeNumber": 3,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-09-15",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -899,6 +901,7 @@
       "pyeongTypeNumber": 3,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-09-15",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
