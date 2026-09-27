@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-22T07:00:49+09:00",
+  "collectedAtKST": "2026-09-28T07:00:41+09:00",
   "name": "무궁화효성,한양",
   "targetLabel": "84㎡",
   "complexNumber": 19492,
@@ -19,7 +19,7 @@
     "TRADE_PRICE_OUTLIER"
   ],
   "asking": {
-    "count": 1,
+    "count": 2,
     "minPrice": 1100000000,
     "maxPrice": 1100000000,
     "medianPrice": 1100000000,
@@ -27,15 +27,15 @@
     "knownNormalMaxPrice": 1100000000,
     "radarNormalCandidateMinPrice": 1100000000,
     "radarNormalCandidateMaxPrice": 1100000000,
-    "radarNormalCandidateCount": 1,
-    "detailCheckedCount": 1,
-    "detailSuccessCount": 1,
-    "detailTargetMax": 1,
+    "radarNormalCandidateCount": 2,
+    "detailCheckedCount": 2,
+    "detailSuccessCount": 2,
+    "detailTargetMax": 2,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
     {
-      "articleNumber": "2651043315",
+      "articleNumber": "2651689504",
       "dealPrice": 1100000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -49,12 +49,31 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2651043315"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651689504"
+    },
+    {
+      "articleNumber": "2651370024",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "108",
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651370024"
     }
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2651043315",
+      "articleNumber": "2651689504",
       "dealPrice": 1100000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -68,10 +87,49 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2651043315"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651689504"
+    },
+    {
+      "articleNumber": "2651370024",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "108",
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651370024"
     }
   ],
-  "lowFloorOnlyCandidates": [],
+  "lowFloorOnlyCandidates": [
+    {
+      "articleNumber": "2651370024",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "108",
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651370024"
+    }
+  ],
   "hardSpecialListings": [],
   "recentTrades": [
     {
@@ -138,6 +196,7 @@
       "pyeongTypeNumber": 5,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-09-18",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -734,6 +793,7 @@
       "pyeongTypeNumber": 5,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-09-18",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -1257,6 +1317,7 @@
       "pyeongTypeNumber": 5,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-09-18",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
