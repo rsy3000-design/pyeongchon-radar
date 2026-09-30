@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-09-30T07:00:28+09:00",
+  "collectedAtKST": "2026-10-01T07:00:49+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -17,18 +17,18 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 3,
+    "count": 4,
     "minPrice": 1000000000,
     "maxPrice": 1200000000,
-    "medianPrice": 1100000000,
+    "medianPrice": 1025000000,
     "knownNormalMinPrice": 1200000000,
     "knownNormalMaxPrice": 1200000000,
     "radarNormalCandidateMinPrice": 1000000000,
     "radarNormalCandidateMaxPrice": 1200000000,
     "radarNormalCandidateCount": 2,
-    "detailCheckedCount": 3,
-    "detailSuccessCount": 3,
-    "detailTargetMax": 3,
+    "detailCheckedCount": 4,
+    "detailSuccessCount": 4,
+    "detailTargetMax": 4,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
@@ -52,8 +52,29 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
     },
     {
+      "articleNumber": "2652421606",
+      "dealPrice": 1000000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "205",
+      "floorText": "고/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2652421606"
+    },
+    {
       "articleNumber": "2650017900",
-      "dealPrice": 1100000000,
+      "dealPrice": 1050000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
@@ -151,8 +172,29 @@
   ],
   "hardSpecialListings": [
     {
+      "articleNumber": "2652421606",
+      "dealPrice": 1000000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "205",
+      "floorText": "고/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2652421606"
+    },
+    {
       "articleNumber": "2650017900",
-      "dealPrice": 1100000000,
+      "dealPrice": 1050000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "206",
