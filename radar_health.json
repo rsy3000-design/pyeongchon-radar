@@ -1,16 +1,16 @@
 {
   "schemaVersion": "1.0",
   "type": "pyeongchon_radar_health",
-  "collectedAtKST": "2026-10-01T07:00:49+09:00",
-  "runId": "wP6u3Xtls7cv2rfmU",
+  "collectedAtKST": "2026-10-01T08:42:09+09:00",
+  "runId": "hTV4YwbFT1k2cBKjE",
   "status": "DEGRADED",
   "flags": [
     "DATA_QUALITY_WARNING"
   ],
   "selfTestPassed": true,
   "selfTestIssues": [],
-  "successfulTargetCount": 7,
-  "targetCount": 7,
+  "successfulTargetCount": 8,
+  "targetCount": 8,
   "allTargetsSuccessful": true,
   "summaryQualityStatus": "WARNING",
   "summaryQualityFlags": [
@@ -18,8 +18,8 @@
   ],
   "githubTokenConfigured": true,
   "githubMirrorAllSuccessful": true,
-  "githubMirrorSuccessCount": 9,
-  "githubMirrorTotalCount": 9,
+  "githubMirrorSuccessCount": 10,
+  "githubMirrorTotalCount": 10,
   "githubResults": [
     {
       "success": true,
@@ -74,6 +74,12 @@
       "path": "targets/1470.json",
       "attempts": 1,
       "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/1470.json"
+    },
+    {
+      "success": true,
+      "path": "targets/2811.json",
+      "attempts": 1,
+      "rawUrl": "https://raw.githubusercontent.com/rsy3000-design/pyeongchon-radar/main/targets/2811.json"
     }
   ],
   "apifySummaryUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
