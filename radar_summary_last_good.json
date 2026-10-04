@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-10-04T07:00:45+09:00",
-  "runId": "ugFoypEb44HpMOxlQ",
+  "collectedAtKST": "2026-10-05T07:00:49+09:00",
+  "runId": "vdaEXDbKA1KjmGcsU",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 8,
   "successfulTargetCount": 8,
@@ -1527,7 +1527,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 12,
+        "count": 13,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
         "medianPrice": 1150000000,
@@ -1581,6 +1581,23 @@
           "articleDetailUrl": "https://fin.land.naver.com/articles/2648173345"
         },
         {
+          "articleNumber": "2653350026",
+          "dealPrice": 1100000000,
+          "exclusiveArea": 84.94,
+          "pyeongTypeNumber": 3,
+          "dongName": "134",
+          "floorText": "중/17층",
+          "description": null,
+          "detailFound": true,
+          "detailSkipped": null,
+          "detailError": null,
+          "specialReasons": [],
+          "hardSpecialReasons": [],
+          "lowFloorOnly": false,
+          "normalCandidate": true,
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2653350026"
+        },
+        {
           "articleNumber": "2650932551",
           "dealPrice": 1130000000,
           "exclusiveArea": 84.94,
@@ -1630,23 +1647,6 @@
           "lowFloorOnly": false,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2651574920"
-        },
-        {
-          "articleNumber": "2649526983",
-          "dealPrice": 1150000000,
-          "exclusiveArea": 84.94,
-          "pyeongTypeNumber": 3,
-          "dongName": "117",
-          "floorText": "6/15층",
-          "description": null,
-          "detailFound": true,
-          "detailSkipped": null,
-          "detailError": null,
-          "specialReasons": [],
-          "hardSpecialReasons": [],
-          "lowFloorOnly": false,
-          "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2649526983"
         }
       ],
       "latestTrade": {
@@ -2675,6 +2675,7 @@
           "pyeongTypeNumber": 5,
           "tradeYear": "2026",
           "tradeCategory": "중개거래",
+          "registrationDate": "2026-09-29",
           "isDelete": false,
           "propertyType": "NORMAL",
           "isRenew": false,
@@ -2793,6 +2794,7 @@
           "pyeongTypeNumber": 5,
           "tradeYear": "2026",
           "tradeCategory": "중개거래",
+          "registrationDate": "2026-09-29",
           "isDelete": false,
           "propertyType": "NORMAL",
           "isRenew": false,
@@ -2897,6 +2899,7 @@
           "pyeongTypeNumber": 5,
           "tradeYear": "2026",
           "tradeCategory": "중개거래",
+          "registrationDate": "2026-09-29",
           "isDelete": false,
           "propertyType": "NORMAL",
           "isRenew": false,
@@ -5578,7 +5581,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 12,
+        "count": 13,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
         "medianPrice": 1150000000,
@@ -5632,6 +5635,23 @@
           "articleDetailUrl": "https://fin.land.naver.com/articles/2648173345"
         },
         {
+          "articleNumber": "2653350026",
+          "dealPrice": 1100000000,
+          "exclusiveArea": 84.94,
+          "pyeongTypeNumber": 3,
+          "dongName": "134",
+          "floorText": "중/17층",
+          "description": null,
+          "detailFound": true,
+          "detailSkipped": null,
+          "detailError": null,
+          "specialReasons": [],
+          "hardSpecialReasons": [],
+          "lowFloorOnly": false,
+          "normalCandidate": true,
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2653350026"
+        },
+        {
           "articleNumber": "2650932551",
           "dealPrice": 1130000000,
           "exclusiveArea": 84.94,
@@ -5681,23 +5701,6 @@
           "lowFloorOnly": false,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2651574920"
-        },
-        {
-          "articleNumber": "2649526983",
-          "dealPrice": 1150000000,
-          "exclusiveArea": 84.94,
-          "pyeongTypeNumber": 3,
-          "dongName": "117",
-          "floorText": "6/15층",
-          "description": null,
-          "detailFound": true,
-          "detailSkipped": null,
-          "detailError": null,
-          "specialReasons": [],
-          "hardSpecialReasons": [],
-          "lowFloorOnly": false,
-          "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2649526983"
         }
       ],
       "latestTrade": {
@@ -6732,6 +6735,7 @@
           "pyeongTypeNumber": 5,
           "tradeYear": "2026",
           "tradeCategory": "중개거래",
+          "registrationDate": "2026-09-29",
           "isDelete": false,
           "propertyType": "NORMAL",
           "isRenew": false,
@@ -6850,6 +6854,7 @@
           "pyeongTypeNumber": 5,
           "tradeYear": "2026",
           "tradeCategory": "중개거래",
+          "registrationDate": "2026-09-29",
           "isDelete": false,
           "propertyType": "NORMAL",
           "isRenew": false,
@@ -6954,6 +6959,7 @@
           "pyeongTypeNumber": 5,
           "tradeYear": "2026",
           "tradeCategory": "중개거래",
+          "registrationDate": "2026-09-29",
           "isDelete": false,
           "propertyType": "NORMAL",
           "isRenew": false,
@@ -8149,7 +8155,7 @@
     "fallbackPolicy": "오늘 실패 단지는 RADAR_*_LAST_GOOD를 effectiveTargets에 사용"
   },
   "publicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
-  "historyDate": "2026-10-04",
-  "historyRecord": "HISTORY_2026-10-04",
-  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-10-04?signature=1NiZVSIjQOiOqXdBwMyen"
+  "historyDate": "2026-10-05",
+  "historyRecord": "HISTORY_2026-10-05",
+  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-10-05?signature=vxgI4OAW47re8dFSsxeB"
 }
