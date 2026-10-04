@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-04T07:00:45+09:00",
+  "collectedAtKST": "2026-10-05T07:00:49+09:00",
   "name": "인덕원삼호",
   "targetLabel": "84㎡",
   "complexNumber": 2811,
@@ -252,7 +252,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2651697062"
     },
     {
-      "articleNumber": "2653331993",
+      "articleNumber": "2653360278",
       "dealPrice": 1250000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -266,7 +266,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2653331993"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2653360278"
     },
     {
       "articleNumber": "2653331490",
