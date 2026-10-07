@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-07T07:00:43+09:00",
+  "collectedAtKST": "2026-10-08T07:00:40+09:00",
   "name": "샛별한양2,3단지",
   "targetLabel": "84㎡",
   "complexNumber": 1454,
@@ -52,7 +52,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2652705922"
     },
     {
-      "articleNumber": "2652911167",
+      "articleNumber": "2653980481",
       "dealPrice": 1140000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -68,7 +68,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652911167"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2653980481"
     },
     {
       "articleNumber": "2649793050",
@@ -211,7 +211,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2652705922"
     },
     {
-      "articleNumber": "2652911167",
+      "articleNumber": "2653980481",
       "dealPrice": 1140000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -227,7 +227,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652911167"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2653980481"
     },
     {
       "articleNumber": "2649793050",
@@ -319,7 +319,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2652705922"
     },
     {
-      "articleNumber": "2652911167",
+      "articleNumber": "2653980481",
       "dealPrice": 1140000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -335,7 +335,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652911167"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2653980481"
     }
   ],
   "hardSpecialListings": [],
