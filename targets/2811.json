@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-08T07:00:40+09:00",
+  "collectedAtKST": "2026-10-09T07:00:43+09:00",
   "name": "인덕원삼호",
   "targetLabel": "84㎡",
   "complexNumber": 2811,
@@ -17,23 +17,40 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 26,
+    "count": 25,
     "minPrice": 1150000000,
     "maxPrice": 1300000000,
     "medianPrice": 1200000000,
-    "knownNormalMinPrice": null,
-    "knownNormalMaxPrice": null,
-    "radarNormalCandidateMinPrice": 1200000000,
+    "knownNormalMinPrice": 1150000000,
+    "knownNormalMaxPrice": 1150000000,
+    "radarNormalCandidateMinPrice": 1150000000,
     "radarNormalCandidateMaxPrice": 1200000000,
-    "radarNormalCandidateCount": 3,
+    "radarNormalCandidateCount": 4,
     "detailCheckedCount": 6,
-    "detailSuccessCount": 5,
+    "detailSuccessCount": 6,
     "detailTargetMax": 12,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
     {
-      "articleNumber": "2648400700",
+      "articleNumber": "2654346983",
+      "dealPrice": 1150000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": "15/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654346983"
+    },
+    {
+      "articleNumber": "2654194895",
       "dealPrice": 1150000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -52,24 +69,7 @@
       ],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648400700"
-    },
-    {
-      "articleNumber": "2654043723",
-      "dealPrice": 1150000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": null,
-      "detailError": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://fin.land.naver.com/articles/2654043723\", waiting until \"domcontentloaded\"\n",
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2654043723"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654194895"
     },
     {
       "articleNumber": "2653100038",
@@ -91,6 +91,25 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653100038"
+    },
+    {
+      "articleNumber": "2654343945",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654343945"
     },
     {
       "articleNumber": "2653506762",
@@ -136,18 +155,33 @@
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
       "dongName": null,
-      "floorText": "저/15층",
+      "floorText": null,
       "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
       "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
+      "specialReasons": [],
       "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
+      "lowFloorOnly": false,
+      "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2649309686"
+    },
+    {
+      "articleNumber": "2654346980",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654346980"
     },
     {
       "articleNumber": "2653781349",
@@ -165,40 +199,6 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653781349"
-    },
-    {
-      "articleNumber": "2654043721",
-      "dealPrice": 1200000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2654043721"
-    },
-    {
-      "articleNumber": "2653331893",
-      "dealPrice": 1200000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2653331893"
     },
     {
       "articleNumber": "2652694139",
@@ -252,23 +252,6 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653239723"
     },
     {
-      "articleNumber": "2648455060",
-      "dealPrice": 1200000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648455060"
-    },
-    {
       "articleNumber": "2650795126",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.99,
@@ -320,23 +303,6 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653795637"
     },
     {
-      "articleNumber": "2653815632",
-      "dealPrice": 1250000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2653815632"
-    },
-    {
       "articleNumber": "2653568062",
       "dealPrice": 1250000000,
       "exclusiveArea": 84.99,
@@ -354,7 +320,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653568062"
     },
     {
-      "articleNumber": "2653360278",
+      "articleNumber": "2654346981",
       "dealPrice": 1250000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -368,7 +334,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2653360278"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654346981"
     },
     {
       "articleNumber": "2653817696",
@@ -386,6 +352,23 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653817696"
+    },
+    {
+      "articleNumber": "2654343932",
+      "dealPrice": 1250000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654343932"
     },
     {
       "articleNumber": "2654041667",
@@ -422,7 +405,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653763543"
     },
     {
-      "articleNumber": "2652926123",
+      "articleNumber": "2654343944",
       "dealPrice": 1280000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -436,7 +419,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652926123"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654343944"
     },
     {
       "articleNumber": "2654039748",
@@ -492,6 +475,42 @@
   ],
   "normalCandidates": [
     {
+      "articleNumber": "2654346983",
+      "dealPrice": 1150000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": "15/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654346983"
+    },
+    {
+      "articleNumber": "2654343945",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654343945"
+    },
+    {
       "articleNumber": "2653506762",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.99,
@@ -528,29 +547,29 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653570697"
-    },
-    {
-      "articleNumber": "2649309686",
-      "dealPrice": 1200000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": "저/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2649309686"
     }
   ],
   "lowFloorOnlyCandidates": [
     {
+      "articleNumber": "2654343945",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.99,
+      "pyeongTypeNumber": 1,
+      "dongName": null,
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654343945"
+    },
+    {
       "articleNumber": "2653506762",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.99,
@@ -587,30 +606,11 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2653570697"
-    },
-    {
-      "articleNumber": "2649309686",
-      "dealPrice": 1200000000,
-      "exclusiveArea": 84.99,
-      "pyeongTypeNumber": 1,
-      "dongName": null,
-      "floorText": "저/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2649309686"
     }
   ],
   "hardSpecialListings": [
     {
-      "articleNumber": "2648400700",
+      "articleNumber": "2654194895",
       "dealPrice": 1150000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -629,7 +629,7 @@
       ],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648400700"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2654194895"
     },
     {
       "articleNumber": "2653100038",
