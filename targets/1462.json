@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-09T07:00:43+09:00",
+  "collectedAtKST": "2026-10-10T07:00:33+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -17,40 +17,21 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 4,
+    "count": 3,
     "minPrice": 1000000000,
     "maxPrice": 1200000000,
-    "medianPrice": 1025000000,
+    "medianPrice": 1050000000,
     "knownNormalMinPrice": 1200000000,
     "knownNormalMaxPrice": 1200000000,
-    "radarNormalCandidateMinPrice": 1000000000,
+    "radarNormalCandidateMinPrice": 1200000000,
     "radarNormalCandidateMaxPrice": 1200000000,
-    "radarNormalCandidateCount": 2,
-    "detailCheckedCount": 4,
-    "detailSuccessCount": 4,
-    "detailTargetMax": 4,
+    "radarNormalCandidateCount": 1,
+    "detailCheckedCount": 3,
+    "detailSuccessCount": 3,
+    "detailTargetMax": 3,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
-    {
-      "articleNumber": "2648777182",
-      "dealPrice": 1000000000,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "dongName": "206",
-      "floorText": "1/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
-    },
     {
       "articleNumber": "2652421606",
       "dealPrice": 1000000000,
@@ -113,25 +94,6 @@
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2648777182",
-      "dealPrice": 1000000000,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "dongName": "206",
-      "floorText": "1/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
-    },
-    {
       "articleNumber": "2649393366",
       "dealPrice": 1200000000,
       "exclusiveArea": 79.02,
@@ -149,27 +111,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2649393366"
     }
   ],
-  "lowFloorOnlyCandidates": [
-    {
-      "articleNumber": "2648777182",
-      "dealPrice": 1000000000,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "dongName": "206",
-      "floorText": "1/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2648777182"
-    }
-  ],
+  "lowFloorOnlyCandidates": [],
   "hardSpecialListings": [
     {
       "articleNumber": "2652421606",
