@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-11T07:01:15+09:00",
+  "collectedAtKST": "2026-10-12T07:00:38+09:00",
   "name": "무궁화효성,한양",
   "targetLabel": "84㎡",
   "complexNumber": 19492,
   "collectionSuccess": true,
-  "attemptUsed": 2,
+  "attemptUsed": 1,
   "fatalError": null,
   "stage": {
     "pyeongSuccess": true,
