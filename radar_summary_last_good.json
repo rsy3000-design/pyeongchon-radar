@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-10-11T07:01:15+09:00",
-  "runId": "KEGHvusy4aaMbaMUE",
+  "collectedAtKST": "2026-10-12T07:00:38+09:00",
+  "runId": "CVouWumTkpRV3ljyh",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 8,
   "successfulTargetCount": 8,
@@ -1524,7 +1524,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 14,
+        "count": 13,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
         "medianPrice": 1150000000,
@@ -2535,7 +2535,7 @@
       "targetLabel": "84㎡",
       "complexNumber": 19492,
       "collectionSuccess": true,
-      "attemptUsed": 2,
+      "attemptUsed": 1,
       "stage": {
         "pyeongSuccess": true,
         "askingSuccess": true,
@@ -3051,7 +3051,7 @@
       },
       "bestListings": [
         {
-          "articleNumber": "2654630074",
+          "articleNumber": "2654652594",
           "dealPrice": 1020000000,
           "exclusiveArea": 84.84,
           "pyeongTypeNumber": 3,
@@ -3065,7 +3065,7 @@
           "hardSpecialReasons": [],
           "lowFloorOnly": false,
           "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2654630074"
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2654652594"
         },
         {
           "articleNumber": "2654555186",
@@ -3628,25 +3628,6 @@
           "articleDetailUrl": "https://fin.land.naver.com/articles/2653506762"
         },
         {
-          "articleNumber": "2654641556",
-          "dealPrice": 1200000000,
-          "exclusiveArea": 84.99,
-          "pyeongTypeNumber": 1,
-          "dongName": null,
-          "floorText": "저/15층",
-          "description": null,
-          "detailFound": true,
-          "detailSkipped": null,
-          "detailError": null,
-          "specialReasons": [
-            "저층"
-          ],
-          "hardSpecialReasons": [],
-          "lowFloorOnly": true,
-          "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2654641556"
-        },
-        {
           "articleNumber": "2653570697",
           "dealPrice": 1200000000,
           "exclusiveArea": 84.99,
@@ -3664,6 +3645,25 @@
           "lowFloorOnly": true,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2653570697"
+        },
+        {
+          "articleNumber": "2649309686",
+          "dealPrice": 1200000000,
+          "exclusiveArea": 84.99,
+          "pyeongTypeNumber": 1,
+          "dongName": null,
+          "floorText": "저/15층",
+          "description": null,
+          "detailFound": true,
+          "detailSkipped": null,
+          "detailError": null,
+          "specialReasons": [
+            "저층"
+          ],
+          "hardSpecialReasons": [],
+          "lowFloorOnly": true,
+          "normalCandidate": true,
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2649309686"
         }
       ],
       "latestTrade": {
@@ -5554,7 +5554,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 14,
+        "count": 13,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
         "medianPrice": 1150000000,
@@ -6571,7 +6571,7 @@
       "targetLabel": "84㎡",
       "complexNumber": 19492,
       "collectionSuccess": true,
-      "attemptUsed": 2,
+      "attemptUsed": 1,
       "stage": {
         "pyeongSuccess": true,
         "askingSuccess": true,
@@ -7090,7 +7090,7 @@
       },
       "bestListings": [
         {
-          "articleNumber": "2654630074",
+          "articleNumber": "2654652594",
           "dealPrice": 1020000000,
           "exclusiveArea": 84.84,
           "pyeongTypeNumber": 3,
@@ -7104,7 +7104,7 @@
           "hardSpecialReasons": [],
           "lowFloorOnly": false,
           "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2654630074"
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2654652594"
         },
         {
           "articleNumber": "2654555186",
@@ -7670,25 +7670,6 @@
           "articleDetailUrl": "https://fin.land.naver.com/articles/2653506762"
         },
         {
-          "articleNumber": "2654641556",
-          "dealPrice": 1200000000,
-          "exclusiveArea": 84.99,
-          "pyeongTypeNumber": 1,
-          "dongName": null,
-          "floorText": "저/15층",
-          "description": null,
-          "detailFound": true,
-          "detailSkipped": null,
-          "detailError": null,
-          "specialReasons": [
-            "저층"
-          ],
-          "hardSpecialReasons": [],
-          "lowFloorOnly": true,
-          "normalCandidate": true,
-          "articleDetailUrl": "https://fin.land.naver.com/articles/2654641556"
-        },
-        {
           "articleNumber": "2653570697",
           "dealPrice": 1200000000,
           "exclusiveArea": 84.99,
@@ -7706,6 +7687,25 @@
           "lowFloorOnly": true,
           "normalCandidate": true,
           "articleDetailUrl": "https://fin.land.naver.com/articles/2653570697"
+        },
+        {
+          "articleNumber": "2649309686",
+          "dealPrice": 1200000000,
+          "exclusiveArea": 84.99,
+          "pyeongTypeNumber": 1,
+          "dongName": null,
+          "floorText": "저/15층",
+          "description": null,
+          "detailFound": true,
+          "detailSkipped": null,
+          "detailError": null,
+          "specialReasons": [
+            "저층"
+          ],
+          "hardSpecialReasons": [],
+          "lowFloorOnly": true,
+          "normalCandidate": true,
+          "articleDetailUrl": "https://fin.land.naver.com/articles/2649309686"
         }
       ],
       "latestTrade": {
@@ -8107,7 +8107,7 @@
     "fallbackPolicy": "오늘 실패 단지는 RADAR_*_LAST_GOOD를 effectiveTargets에 사용"
   },
   "publicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
-  "historyDate": "2026-10-11",
-  "historyRecord": "HISTORY_2026-10-11",
-  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-10-11?signature=m68ySFj7sXOXgiNP2FYQ"
+  "historyDate": "2026-10-12",
+  "historyRecord": "HISTORY_2026-10-12",
+  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-10-12?signature=oMsfnFJpM8kvd1ZjyIVi"
 }
