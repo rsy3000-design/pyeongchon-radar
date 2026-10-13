@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-13T07:01:13+09:00",
+  "collectedAtKST": "2026-10-14T07:00:44+09:00",
   "name": "샛별한양2,3단지",
   "targetLabel": "84㎡",
   "complexNumber": 1454,
@@ -23,11 +23,11 @@
     "medianPrice": 1200000000,
     "knownNormalMinPrice": 1150000000,
     "knownNormalMaxPrice": 1200000000,
-    "radarNormalCandidateMinPrice": 1100000000,
+    "radarNormalCandidateMinPrice": 1140000000,
     "radarNormalCandidateMaxPrice": 1200000000,
-    "radarNormalCandidateCount": 5,
+    "radarNormalCandidateCount": 4,
     "detailCheckedCount": 6,
-    "detailSuccessCount": 6,
+    "detailSuccessCount": 5,
     "detailTargetMax": 11,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
@@ -37,18 +37,16 @@
       "dealPrice": 1100000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "201",
-      "floorText": "1/23층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
-      "detailFound": true,
+      "detailFound": false,
       "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
+      "detailError": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://fin.land.naver.com/articles/2652705922\", waiting until \"domcontentloaded\"\n",
+      "specialReasons": [],
       "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
+      "lowFloorOnly": false,
+      "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2652705922"
     },
     {
@@ -231,25 +229,6 @@
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2652705922",
-      "dealPrice": 1100000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "201",
-      "floorText": "1/23층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652705922"
-    },
-    {
       "articleNumber": "2653980481",
       "dealPrice": 1140000000,
       "exclusiveArea": 84.9,
@@ -321,25 +300,6 @@
     }
   ],
   "lowFloorOnlyCandidates": [
-    {
-      "articleNumber": "2652705922",
-      "dealPrice": 1100000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "201",
-      "floorText": "1/23층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652705922"
-    },
     {
       "articleNumber": "2653980481",
       "dealPrice": 1140000000,
