@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-16T07:02:36+09:00",
+  "collectedAtKST": "2026-10-17T07:01:09+09:00",
   "name": "관악부영",
   "targetLabel": "84㎡",
   "complexNumber": 1993,
@@ -17,7 +17,7 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 12,
+    "count": 11,
     "minPrice": 1050000000,
     "maxPrice": 1250000000,
     "medianPrice": 1120000000,
@@ -28,7 +28,7 @@
     "radarNormalCandidateCount": 5,
     "detailCheckedCount": 6,
     "detailSuccessCount": 6,
-    "detailTargetMax": 12,
+    "detailTargetMax": 11,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
@@ -67,23 +67,6 @@
       "lowFloorOnly": false,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2650703837"
-    },
-    {
-      "articleNumber": "2650189900",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.63,
-      "pyeongTypeNumber": 2,
-      "dongName": "201",
-      "floorText": "8/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2650189900"
     },
     {
       "articleNumber": "2650594228",
@@ -147,16 +130,18 @@
       "dealPrice": 1120000000,
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
-      "dongName": null,
-      "floorText": null,
+      "dongName": "209",
+      "floorText": "저/15층",
       "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
+      "detailFound": true,
+      "detailSkipped": null,
       "detailError": null,
-      "specialReasons": [],
+      "specialReasons": [
+        "저층"
+      ],
       "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
+      "lowFloorOnly": true,
+      "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2651877933"
     },
     {
@@ -283,23 +268,6 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2650703837"
     },
     {
-      "articleNumber": "2650189900",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.63,
-      "pyeongTypeNumber": 2,
-      "dongName": "201",
-      "floorText": "8/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2650189900"
-    },
-    {
       "articleNumber": "2650594228",
       "dealPrice": 1100000000,
       "exclusiveArea": 84.63,
@@ -334,6 +302,25 @@
       "lowFloorOnly": false,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2655565277"
+    },
+    {
+      "articleNumber": "2651877933",
+      "dealPrice": 1120000000,
+      "exclusiveArea": 84.63,
+      "pyeongTypeNumber": 2,
+      "dongName": "209",
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651877933"
     }
   ],
   "lowFloorOnlyCandidates": [
@@ -374,6 +361,25 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2650594228"
+    },
+    {
+      "articleNumber": "2651877933",
+      "dealPrice": 1120000000,
+      "exclusiveArea": 84.63,
+      "pyeongTypeNumber": 2,
+      "dongName": "209",
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2651877933"
     }
   ],
   "hardSpecialListings": [
