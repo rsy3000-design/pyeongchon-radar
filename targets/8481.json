@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-19T07:02:44+09:00",
+  "collectedAtKST": "2026-10-20T07:00:40+09:00",
   "name": "초원6단지한양",
   "targetLabel": "84㎡",
   "complexNumber": 8481,
@@ -17,10 +17,10 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 12,
+    "count": 13,
     "minPrice": 970000000,
     "maxPrice": 1150000000,
-    "medianPrice": 1085000000,
+    "medianPrice": 1090000000,
     "knownNormalMinPrice": 1070000000,
     "knownNormalMaxPrice": 1080000000,
     "radarNormalCandidateMinPrice": 970000000,
@@ -192,6 +192,23 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2654956472"
     },
     {
+      "articleNumber": "2656378369",
+      "dealPrice": 1130000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2656378369"
+    },
+    {
       "articleNumber": "2652829225",
       "dealPrice": 1130000000,
       "exclusiveArea": 84.9,
@@ -209,7 +226,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2652829225"
     },
     {
-      "articleNumber": "2655341043",
+      "articleNumber": "2656283392",
       "dealPrice": 1150000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -223,10 +240,10 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2655341043"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2656283392"
     },
     {
-      "articleNumber": "2652331756",
+      "articleNumber": "2656297103",
       "dealPrice": 1150000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -240,7 +257,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652331756"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2656297103"
     }
   ],
   "normalCandidates": [
