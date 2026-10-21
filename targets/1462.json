@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-21T07:00:47+09:00",
+  "collectedAtKST": "2026-10-22T07:00:31+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -20,10 +20,10 @@
     "count": 3,
     "minPrice": 1000000000,
     "maxPrice": 1200000000,
-    "medianPrice": 1100000000,
+    "medianPrice": 1080000000,
     "knownNormalMinPrice": 1200000000,
     "knownNormalMaxPrice": 1200000000,
-    "radarNormalCandidateMinPrice": 1100000000,
+    "radarNormalCandidateMinPrice": 1080000000,
     "radarNormalCandidateMaxPrice": 1200000000,
     "radarNormalCandidateCount": 2,
     "detailCheckedCount": 3,
@@ -54,8 +54,8 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2652421606"
     },
     {
-      "articleNumber": "2654766125",
-      "dealPrice": 1100000000,
+      "articleNumber": "2656878110",
+      "dealPrice": 1080000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "204",
@@ -70,7 +70,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2654766125"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2656878110"
     },
     {
       "articleNumber": "2655055074",
@@ -92,8 +92,8 @@
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2654766125",
-      "dealPrice": 1100000000,
+      "articleNumber": "2656878110",
+      "dealPrice": 1080000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "204",
@@ -108,7 +108,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2654766125"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2656878110"
     },
     {
       "articleNumber": "2655055074",
@@ -130,8 +130,8 @@
   ],
   "lowFloorOnlyCandidates": [
     {
-      "articleNumber": "2654766125",
-      "dealPrice": 1100000000,
+      "articleNumber": "2656878110",
+      "dealPrice": 1080000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "204",
@@ -146,7 +146,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2654766125"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2656878110"
     }
   ],
   "hardSpecialListings": [
