@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-22T07:00:31+09:00",
+  "collectedAtKST": "2026-10-23T07:00:37+09:00",
   "name": "샛별한양2,3단지",
   "targetLabel": "84㎡",
   "complexNumber": 1454,
@@ -17,9 +17,9 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 10,
+    "count": 9,
     "minPrice": 1100000000,
-    "maxPrice": 1400000000,
+    "maxPrice": 1300000000,
     "medianPrice": 1200000000,
     "knownNormalMinPrice": 1150000000,
     "knownNormalMaxPrice": 1200000000,
@@ -28,7 +28,7 @@
     "radarNormalCandidateCount": 5,
     "detailCheckedCount": 6,
     "detailSuccessCount": 6,
-    "detailTargetMax": 10,
+    "detailTargetMax": 9,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
@@ -193,23 +193,6 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656471468"
-    },
-    {
-      "articleNumber": "2651331412",
-      "dealPrice": 1400000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2651331412"
     }
   ],
   "normalCandidates": [
@@ -404,6 +387,7 @@
       "pyeongTypeNumber": 3,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-10-19",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -700,6 +684,7 @@
       "pyeongTypeNumber": 3,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-10-19",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -954,6 +939,7 @@
       "pyeongTypeNumber": 3,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-10-19",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
