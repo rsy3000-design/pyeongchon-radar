@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-24T07:02:49+09:00",
+  "collectedAtKST": "2026-10-25T07:00:59+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
   "collectionSuccess": true,
-  "attemptUsed": 1,
+  "attemptUsed": 2,
   "fatalError": null,
   "stage": {
     "pyeongSuccess": true,
