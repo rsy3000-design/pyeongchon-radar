@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-26T07:00:43+09:00",
+  "collectedAtKST": "2026-10-27T07:00:37+09:00",
   "name": "초원6단지한양",
   "targetLabel": "84㎡",
   "complexNumber": 8481,
@@ -226,23 +226,6 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657166011"
     },
     {
-      "articleNumber": "2656297103",
-      "dealPrice": 1150000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2656297103"
-    },
-    {
       "articleNumber": "2657285366",
       "dealPrice": 1150000000,
       "exclusiveArea": 84.9,
@@ -260,7 +243,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657285366"
     },
     {
-      "articleNumber": "2656651362",
+      "articleNumber": "2657676531",
       "dealPrice": 1150000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -274,7 +257,24 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2656651362"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2657676531"
+    },
+    {
+      "articleNumber": "2657762096",
+      "dealPrice": 1150000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2657762096"
     }
   ],
   "normalCandidates": [
