@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-26T07:00:43+09:00",
+  "collectedAtKST": "2026-10-27T07:00:37+09:00",
   "name": "공작성일",
   "targetLabel": "79㎡",
   "complexNumber": 1462,
@@ -18,7 +18,7 @@
   "qualityFlags": [],
   "asking": {
     "count": 3,
-    "minPrice": 1000000000,
+    "minPrice": 1080000000,
     "maxPrice": 1200000000,
     "medianPrice": 1080000000,
     "knownNormalMinPrice": 1200000000,
@@ -32,27 +32,6 @@
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
   "listings": [
-    {
-      "articleNumber": "2652421606",
-      "dealPrice": 1000000000,
-      "exclusiveArea": 79.02,
-      "pyeongTypeNumber": 3,
-      "dongName": "205",
-      "floorText": "고/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "임차인/승계조건"
-      ],
-      "hardSpecialReasons": [
-        "임차인/승계조건"
-      ],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2652421606"
-    },
     {
       "articleNumber": "2656878110",
       "dealPrice": 1080000000,
@@ -71,6 +50,27 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656878110"
+    },
+    {
+      "articleNumber": "2652421606",
+      "dealPrice": 1080000000,
+      "exclusiveArea": 79.02,
+      "pyeongTypeNumber": 3,
+      "dongName": "205",
+      "floorText": "고/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2652421606"
     },
     {
       "articleNumber": "2655055074",
@@ -152,7 +152,7 @@
   "hardSpecialListings": [
     {
       "articleNumber": "2652421606",
-      "dealPrice": 1000000000,
+      "dealPrice": 1080000000,
       "exclusiveArea": 79.02,
       "pyeongTypeNumber": 3,
       "dongName": "205",
