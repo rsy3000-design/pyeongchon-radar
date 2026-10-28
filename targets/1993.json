@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-28T07:00:28+09:00",
+  "collectedAtKST": "2026-10-29T07:02:44+09:00",
   "name": "관악부영",
   "targetLabel": "84㎡",
   "complexNumber": 1993,
@@ -17,10 +17,10 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 13,
+    "count": 12,
     "minPrice": 1050000000,
     "maxPrice": 1250000000,
-    "medianPrice": 1120000000,
+    "medianPrice": 1117500000,
     "knownNormalMinPrice": 1050000000,
     "knownNormalMaxPrice": 1115000000,
     "radarNormalCandidateMinPrice": 1050000000,
@@ -158,23 +158,6 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656815965"
-    },
-    {
-      "articleNumber": "2651877933",
-      "dealPrice": 1120000000,
-      "exclusiveArea": 84.63,
-      "pyeongTypeNumber": 2,
-      "dongName": null,
-      "floorText": null,
-      "description": null,
-      "detailFound": false,
-      "detailSkipped": "dynamic_detail_limit",
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2651877933"
     },
     {
       "articleNumber": "2654933312",
