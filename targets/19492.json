@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-29T07:02:44+09:00",
+  "collectedAtKST": "2026-10-30T07:00:44+09:00",
   "name": "무궁화효성,한양",
   "targetLabel": "84㎡",
   "complexNumber": 19492,
@@ -35,6 +35,25 @@
   },
   "listings": [
     {
+      "articleNumber": "2658291966",
+      "dealPrice": 1050000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "110",
+      "floorText": "1/21층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658291966"
+    },
+    {
       "articleNumber": "2657329463",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
@@ -52,25 +71,6 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657329463"
-    },
-    {
-      "articleNumber": "2657892482",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "110",
-      "floorText": "1/21층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657892482"
     },
     {
       "articleNumber": "2657895564",
@@ -109,6 +109,25 @@
   ],
   "normalCandidates": [
     {
+      "articleNumber": "2658291966",
+      "dealPrice": 1050000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "110",
+      "floorText": "1/21층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658291966"
+    },
+    {
       "articleNumber": "2657329463",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
@@ -126,25 +145,6 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657329463"
-    },
-    {
-      "articleNumber": "2657892482",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "110",
-      "floorText": "1/21층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657892482"
     },
     {
       "articleNumber": "2657895564",
@@ -183,6 +183,25 @@
   ],
   "lowFloorOnlyCandidates": [
     {
+      "articleNumber": "2658291966",
+      "dealPrice": 1050000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "110",
+      "floorText": "1/21층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658291966"
+    },
+    {
       "articleNumber": "2657329463",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
@@ -200,25 +219,6 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657329463"
-    },
-    {
-      "articleNumber": "2657892482",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "110",
-      "floorText": "1/21층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657892482"
     }
   ],
   "hardSpecialListings": [],
