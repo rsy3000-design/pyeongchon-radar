@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-10-29T07:02:44+09:00",
+  "collectedAtKST": "2026-10-30T07:00:44+09:00",
   "name": "관악부영",
   "targetLabel": "84㎡",
   "complexNumber": 1993,
@@ -126,7 +126,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656453440"
     },
     {
-      "articleNumber": "2657946127",
+      "articleNumber": "2658395214",
       "dealPrice": 1115000000,
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
@@ -140,7 +140,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657946127"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658395214"
     },
     {
       "articleNumber": "2656815965",
@@ -319,7 +319,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656453440"
     },
     {
-      "articleNumber": "2657946127",
+      "articleNumber": "2658395214",
       "dealPrice": 1115000000,
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
@@ -333,7 +333,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657946127"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658395214"
     }
   ],
   "lowFloorOnlyCandidates": [
