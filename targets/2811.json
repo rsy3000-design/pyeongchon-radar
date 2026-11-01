@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-01T07:02:41+09:00",
+  "collectedAtKST": "2026-11-02T07:02:39+09:00",
   "name": "인덕원삼호",
   "targetLabel": "84㎡",
   "complexNumber": 2811,
@@ -72,7 +72,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658918230"
     },
     {
-      "articleNumber": "2658918289",
+      "articleNumber": "2658955120",
       "dealPrice": 1180000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -88,7 +88,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658918289"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658955120"
     },
     {
       "articleNumber": "2656407943",
@@ -354,7 +354,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658867451"
     },
     {
-      "articleNumber": "2658501357",
+      "articleNumber": "2658954281",
       "dealPrice": 1250000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -368,10 +368,10 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658501357"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658954281"
     },
     {
-      "articleNumber": "2658918237",
+      "articleNumber": "2658955004",
       "dealPrice": 1250000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -385,7 +385,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658918237"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658955004"
     },
     {
       "articleNumber": "2655722284",
@@ -439,7 +439,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658790824"
     },
     {
-      "articleNumber": "2658915506",
+      "articleNumber": "2658955685",
       "dealPrice": 1280000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -453,7 +453,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658915506"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658955685"
     },
     {
       "articleNumber": "2658504662",
@@ -526,7 +526,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658918230"
     },
     {
-      "articleNumber": "2658918289",
+      "articleNumber": "2658955120",
       "dealPrice": 1180000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -542,7 +542,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658918289"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658955120"
     },
     {
       "articleNumber": "2653506762",
@@ -585,7 +585,7 @@
   ],
   "lowFloorOnlyCandidates": [
     {
-      "articleNumber": "2658918289",
+      "articleNumber": "2658955120",
       "dealPrice": 1180000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -601,7 +601,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658918289"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658955120"
     },
     {
       "articleNumber": "2653506762",
@@ -809,6 +809,7 @@
       "pyeongTypeNumber": 1,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-10-27",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -1073,6 +1074,7 @@
       "pyeongTypeNumber": 1,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-10-27",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -1323,6 +1325,7 @@
       "pyeongTypeNumber": 1,
       "tradeYear": "2026",
       "tradeCategory": "중개거래",
+      "registrationDate": "2026-10-27",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
