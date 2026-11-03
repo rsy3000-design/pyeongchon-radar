@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-03T07:00:36+09:00",
+  "collectedAtKST": "2026-11-04T07:03:31+09:00",
   "name": "초원6단지한양",
   "targetLabel": "84㎡",
   "complexNumber": 8481,
@@ -17,10 +17,10 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 17,
+    "count": 19,
     "minPrice": 1050000000,
     "maxPrice": 1150000000,
-    "medianPrice": 1100000000,
+    "medianPrice": 1130000000,
     "knownNormalMinPrice": 1070000000,
     "knownNormalMaxPrice": 1090000000,
     "radarNormalCandidateMinPrice": 1050000000,
@@ -207,6 +207,23 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2659031160"
     },
     {
+      "articleNumber": "2659498254",
+      "dealPrice": 1130000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2659498254"
+    },
+    {
       "articleNumber": "2659218210",
       "dealPrice": 1130000000,
       "exclusiveArea": 84.9,
@@ -307,6 +324,23 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657676531"
+    },
+    {
+      "articleNumber": "2659521061",
+      "dealPrice": 1150000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2659521061"
     },
     {
       "articleNumber": "2659233117",
