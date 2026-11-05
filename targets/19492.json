@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-05T07:00:56+09:00",
+  "collectedAtKST": "2026-11-05T09:23:45+09:00",
   "name": "무궁화효성,한양",
   "targetLabel": "84㎡",
   "complexNumber": 19492,
   "collectionSuccess": true,
-  "attemptUsed": 2,
+  "attemptUsed": 1,
   "fatalError": null,
   "stage": {
     "pyeongSuccess": true,
@@ -18,6 +18,26 @@
   "qualityFlags": [
     "TRADE_PRICE_OUTLIER"
   ],
+  "walkingRoute": {
+    "complexNumber": 19492,
+    "name": "무궁화효성,한양",
+    "status": "UNVERIFIED",
+    "provider": "KAKAO_MAP_WALK",
+    "routeMode": "SHORTEST",
+    "walkingScore": 7.5,
+    "measuredAtKST": null,
+    "collectedAtKST": "2026-11-05T09:23:45+09:00",
+    "distanceM": null,
+    "timeSec": null,
+    "timeMin": null,
+    "station": null,
+    "exitNumber": null,
+    "landingUrl": null,
+    "error": "WALK_POINTS_NOT_CONFIGURED",
+    "representativeArticleNumber": "2657329463",
+    "representativeDong": "110",
+    "representativeFloor": "저/21층"
+  },
   "asking": {
     "count": 4,
     "minPrice": 1050000000,
