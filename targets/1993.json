@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-05T09:23:45+09:00",
+  "collectedAtKST": "2026-11-05T09:54:38+09:00",
   "name": "관악부영",
   "targetLabel": "84㎡",
   "complexNumber": 1993,
@@ -16,26 +16,6 @@
   },
   "qualityStatus": "OK",
   "qualityFlags": [],
-  "walkingRoute": {
-    "complexNumber": 1993,
-    "name": "관악부영",
-    "status": "UNVERIFIED",
-    "provider": "KAKAO_MAP_WALK",
-    "routeMode": "SHORTEST",
-    "walkingScore": 7.5,
-    "measuredAtKST": null,
-    "collectedAtKST": "2026-11-05T09:23:45+09:00",
-    "distanceM": null,
-    "timeSec": null,
-    "timeMin": null,
-    "station": null,
-    "exitNumber": null,
-    "landingUrl": null,
-    "error": "WALK_POINTS_NOT_CONFIGURED",
-    "representativeArticleNumber": "2653637629",
-    "representativeDong": "208",
-    "representativeFloor": "저/15층"
-  },
   "asking": {
     "count": 12,
     "minPrice": 1050000000,
@@ -146,7 +126,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656453440"
     },
     {
-      "articleNumber": "2659498220",
+      "articleNumber": "2659752500",
       "dealPrice": 1115000000,
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
@@ -160,7 +140,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2659498220"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2659752500"
     },
     {
       "articleNumber": "2659581877",
@@ -339,7 +319,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2656453440"
     },
     {
-      "articleNumber": "2659498220",
+      "articleNumber": "2659752500",
       "dealPrice": 1115000000,
       "exclusiveArea": 84.63,
       "pyeongTypeNumber": 2,
@@ -353,7 +333,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2659498220"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2659752500"
     }
   ],
   "lowFloorOnlyCandidates": [
