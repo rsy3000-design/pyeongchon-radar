@@ -1,8 +1,8 @@
 {
   "schemaVersion": "1.0",
   "type": "pyeongchon_radar_health",
-  "collectedAtKST": "2026-11-07T07:00:23+09:00",
-  "runId": "osUH0cgxWwjvR8CZs",
+  "collectedAtKST": "2026-11-08T07:02:56+09:00",
+  "runId": "1kLpCwIvf5ESdO27Z",
   "status": "DEGRADED",
   "flags": [
     "DATA_QUALITY_WARNING"
