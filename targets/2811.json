@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-10T07:02:54+09:00",
+  "collectedAtKST": "2026-11-11T07:00:36+09:00",
   "name": "인덕원삼호",
   "targetLabel": "84㎡",
   "complexNumber": 2811,
@@ -89,7 +89,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2660606195"
     },
     {
-      "articleNumber": "2660764102",
+      "articleNumber": "2661016802",
       "dealPrice": 1180000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -105,7 +105,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2660764102"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661016802"
     },
     {
       "articleNumber": "2656407943",
@@ -558,7 +558,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2660606195"
     },
     {
-      "articleNumber": "2660764102",
+      "articleNumber": "2661016802",
       "dealPrice": 1180000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -574,7 +574,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2660764102"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661016802"
     },
     {
       "articleNumber": "2659568334",
@@ -598,7 +598,7 @@
   ],
   "lowFloorOnlyCandidates": [
     {
-      "articleNumber": "2660764102",
+      "articleNumber": "2661016802",
       "dealPrice": 1180000000,
       "exclusiveArea": 84.99,
       "pyeongTypeNumber": 1,
@@ -614,7 +614,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2660764102"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661016802"
     },
     {
       "articleNumber": "2659568334",
