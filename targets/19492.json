@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-10T07:02:54+09:00",
+  "collectedAtKST": "2026-11-11T07:00:36+09:00",
   "name": "무궁화효성,한양",
   "targetLabel": "84㎡",
   "complexNumber": 19492,
@@ -27,9 +27,9 @@
     "knownNormalMaxPrice": 1220000000,
     "radarNormalCandidateMinPrice": 1050000000,
     "radarNormalCandidateMaxPrice": 1220000000,
-    "radarNormalCandidateCount": 4,
+    "radarNormalCandidateCount": 3,
     "detailCheckedCount": 4,
-    "detailSuccessCount": 4,
+    "detailSuccessCount": 3,
     "detailTargetMax": 4,
     "detailScope": "dynamic_min_6_normal_3_max_12"
   },
@@ -39,18 +39,16 @@
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "110",
-      "floorText": "저/21층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
-      "detailFound": true,
+      "detailFound": false,
       "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
+      "detailError": "TimeoutError: Page.goto: Timeout 25000ms exceeded.\nCall log:\n  - navigating to \"https://fin.land.naver.com/articles/2657329463\", waiting until \"domcontentloaded\"\n",
+      "specialReasons": [],
       "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
+      "lowFloorOnly": false,
+      "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657329463"
     },
     {
@@ -109,25 +107,6 @@
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2657329463",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "110",
-      "floorText": "저/21층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657329463"
-    },
-    {
       "articleNumber": "2659431812",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
@@ -182,25 +161,6 @@
     }
   ],
   "lowFloorOnlyCandidates": [
-    {
-      "articleNumber": "2657329463",
-      "dealPrice": 1050000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "110",
-      "floorText": "저/21층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [
-        "저층"
-      ],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": true,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657329463"
-    },
     {
       "articleNumber": "2659431812",
       "dealPrice": 1050000000,
