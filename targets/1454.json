@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-12T07:02:47+09:00",
+  "collectedAtKST": "2026-11-13T07:03:17+09:00",
   "name": "샛별한양2,3단지",
   "targetLabel": "84㎡",
   "complexNumber": 1454,
@@ -17,15 +17,15 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 12,
+    "count": 15,
     "minPrice": 1050000000,
     "maxPrice": 1400000000,
     "medianPrice": 1200000000,
     "knownNormalMinPrice": 1050000000,
-    "knownNormalMaxPrice": 1200000000,
+    "knownNormalMaxPrice": 1150000000,
     "radarNormalCandidateMinPrice": 1050000000,
-    "radarNormalCandidateMaxPrice": 1200000000,
-    "radarNormalCandidateCount": 6,
+    "radarNormalCandidateMaxPrice": 1150000000,
+    "radarNormalCandidateCount": 5,
     "detailCheckedCount": 6,
     "detailSuccessCount": 6,
     "detailTargetMax": 12,
@@ -103,12 +103,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658053940"
     },
     {
-      "articleNumber": "2657916795",
-      "dealPrice": 1200000000,
+      "articleNumber": "2661472916",
+      "dealPrice": 1150000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "201",
-      "floorText": "18/23층",
+      "dongName": "302",
+      "floorText": "중/23층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -117,6 +117,45 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661472916"
+    },
+    {
+      "articleNumber": "2661267073",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "202",
+      "floorText": "저/23층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층",
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661267073"
+    },
+    {
+      "articleNumber": "2657916795",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657916795"
     },
     {
@@ -124,17 +163,34 @@
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "303",
-      "floorText": "13/15층",
+      "dongName": null,
+      "floorText": null,
       "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
       "detailError": null,
       "specialReasons": [],
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
-      "normalCandidate": true,
+      "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657961518"
+    },
+    {
+      "articleNumber": "2661357813",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661357813"
     },
     {
       "articleNumber": "2658283133",
@@ -154,7 +210,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658283133"
     },
     {
-      "articleNumber": "2660332374",
+      "articleNumber": "2661466839",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -168,7 +224,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2660332374"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661466839"
     },
     {
       "articleNumber": "2659941027",
@@ -311,12 +367,12 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658053940"
     },
     {
-      "articleNumber": "2657916795",
-      "dealPrice": 1200000000,
+      "articleNumber": "2661472916",
+      "dealPrice": 1150000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
-      "dongName": "201",
-      "floorText": "18/23층",
+      "dongName": "302",
+      "floorText": "중/23층",
       "description": null,
       "detailFound": true,
       "detailSkipped": null,
@@ -325,24 +381,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657916795"
-    },
-    {
-      "articleNumber": "2657961518",
-      "dealPrice": 1200000000,
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "dongName": "303",
-      "floorText": "13/15층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2657961518"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661472916"
     }
   ],
   "lowFloorOnlyCandidates": [
@@ -366,8 +405,45 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2660756948"
     }
   ],
-  "hardSpecialListings": [],
+  "hardSpecialListings": [
+    {
+      "articleNumber": "2661267073",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "dongName": "202",
+      "floorText": "저/23층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층",
+        "임차인/승계조건"
+      ],
+      "hardSpecialReasons": [
+        "임차인/승계조건"
+      ],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661267073"
+    }
+  ],
   "recentTrades": [
+    {
+      "tradeDate": "2026-11-03",
+      "dealPrice": 1100000000,
+      "floor": 4,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
     {
       "tradeDate": "2026-09-29",
       "dealPrice": 1150000000,
@@ -658,22 +734,6 @@
       "tradeYear": "2025",
       "tradeCategory": "중개거래",
       "registrationDate": "2025-09-30",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2025-06-02",
-      "dealPrice": 815000000,
-      "floor": 7,
-      "dongName": "303",
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "tradeYear": "2025",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-08-04",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -683,6 +743,20 @@
   ],
   "referenceTrades": [
     {
+      "tradeDate": "2026-11-03",
+      "dealPrice": 1100000000,
+      "floor": 4,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
+    {
       "tradeDate": "2026-09-29",
       "dealPrice": 1150000000,
       "floor": 11,
@@ -930,22 +1004,6 @@
       "tradeYear": "2025",
       "tradeCategory": "중개거래",
       "registrationDate": "2025-09-30",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2025-06-02",
-      "dealPrice": 815000000,
-      "floor": 7,
-      "dongName": "303",
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "tradeYear": "2025",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-08-04",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
@@ -955,6 +1013,20 @@
   ],
   "pricingReferenceTrades": [
     {
+      "tradeDate": "2026-11-03",
+      "dealPrice": 1100000000,
+      "floor": 4,
+      "exclusiveArea": 84.9,
+      "pyeongTypeNumber": 3,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
+    {
       "tradeDate": "2026-09-29",
       "dealPrice": 1150000000,
       "floor": 11,
@@ -1207,29 +1279,13 @@
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2025-06-02",
-      "dealPrice": 815000000,
-      "floor": 7,
-      "dongName": "303",
-      "exclusiveArea": 84.9,
-      "pyeongTypeNumber": 3,
-      "tradeYear": "2025",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-08-04",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
     }
   ],
   "tradeOutliers": [],
   "latestTrade": {
-    "tradeDate": "2026-09-29",
-    "dealPrice": 1150000000,
-    "floor": 11,
+    "tradeDate": "2026-11-03",
+    "dealPrice": 1100000000,
+    "floor": 4,
     "exclusiveArea": 84.9,
     "pyeongTypeNumber": 3,
     "tradeYear": "2026",
