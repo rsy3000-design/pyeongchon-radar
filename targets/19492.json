@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-12T07:02:47+09:00",
+  "collectedAtKST": "2026-11-13T07:03:17+09:00",
   "name": "무궁화효성,한양",
   "targetLabel": "84㎡",
   "complexNumber": 19492,
@@ -35,7 +35,7 @@
   },
   "listings": [
     {
-      "articleNumber": "2661083754",
+      "articleNumber": "2661324935",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -51,7 +51,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661083754"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661324935"
     },
     {
       "articleNumber": "2657329463",
@@ -90,7 +90,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657895564"
     },
     {
-      "articleNumber": "2659631528",
+      "articleNumber": "2661301926",
       "dealPrice": 1220000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -104,12 +104,12 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2659631528"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661301926"
     }
   ],
   "normalCandidates": [
     {
-      "articleNumber": "2661083754",
+      "articleNumber": "2661324935",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -125,7 +125,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661083754"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661324935"
     },
     {
       "articleNumber": "2657329463",
@@ -164,7 +164,7 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2657895564"
     },
     {
-      "articleNumber": "2659631528",
+      "articleNumber": "2661301926",
       "dealPrice": 1220000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -178,12 +178,12 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2659631528"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661301926"
     }
   ],
   "lowFloorOnlyCandidates": [
     {
-      "articleNumber": "2661083754",
+      "articleNumber": "2661324935",
       "dealPrice": 1050000000,
       "exclusiveArea": 84.9,
       "pyeongTypeNumber": 3,
@@ -199,7 +199,7 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661083754"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661324935"
     },
     {
       "articleNumber": "2657329463",
@@ -223,6 +223,20 @@
   ],
   "hardSpecialListings": [],
   "recentTrades": [
+    {
+      "tradeDate": "2026-11-07",
+      "dealPrice": 1120000000,
+      "floor": 14,
+      "exclusiveArea": 84.51,
+      "pyeongTypeNumber": 5,
+      "tradeYear": "2026",
+      "tradeCategory": "중개거래",
+      "isDelete": false,
+      "propertyType": "NORMAL",
+      "isRenew": false,
+      "deposit": 0,
+      "monthlyRent": 0
+    },
     {
       "tradeDate": "2026-07-29",
       "dealPrice": 610000000,
@@ -805,24 +819,23 @@
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    },
+    }
+  ],
+  "referenceTrades": [
     {
-      "tradeDate": "2025-02-22",
-      "dealPrice": 745000000,
-      "floor": 8,
+      "tradeDate": "2026-11-07",
+      "dealPrice": 1120000000,
+      "floor": 14,
       "exclusiveArea": 84.51,
       "pyeongTypeNumber": 5,
-      "tradeYear": "2025",
+      "tradeYear": "2026",
       "tradeCategory": "중개거래",
-      "registrationDate": "2025-04-11",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    }
-  ],
-  "referenceTrades": [
+    },
     {
       "tradeDate": "2026-07-21",
       "dealPrice": 1080000000,
@@ -1332,24 +1345,23 @@
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    },
+    }
+  ],
+  "pricingReferenceTrades": [
     {
-      "tradeDate": "2025-02-22",
-      "dealPrice": 745000000,
-      "floor": 8,
+      "tradeDate": "2026-11-07",
+      "dealPrice": 1120000000,
+      "floor": 14,
       "exclusiveArea": 84.51,
       "pyeongTypeNumber": 5,
-      "tradeYear": "2025",
+      "tradeYear": "2026",
       "tradeCategory": "중개거래",
-      "registrationDate": "2025-04-11",
       "isDelete": false,
       "propertyType": "NORMAL",
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    }
-  ],
-  "pricingReferenceTrades": [
+    },
     {
       "tradeDate": "2026-07-21",
       "dealPrice": 1080000000,
@@ -1844,21 +1856,6 @@
       "isRenew": false,
       "deposit": 0,
       "monthlyRent": 0
-    },
-    {
-      "tradeDate": "2025-02-22",
-      "dealPrice": 745000000,
-      "floor": 8,
-      "exclusiveArea": 84.51,
-      "pyeongTypeNumber": 5,
-      "tradeYear": "2025",
-      "tradeCategory": "중개거래",
-      "registrationDate": "2025-04-11",
-      "isDelete": false,
-      "propertyType": "NORMAL",
-      "isRenew": false,
-      "deposit": 0,
-      "monthlyRent": 0
     }
   ],
   "tradeOutliers": [
@@ -1878,19 +1875,19 @@
         "deposit": 0,
         "monthlyRent": 0
       },
-      "peerMedianPrice": 1065000000,
-      "deviationRatio": 0.4272
+      "peerMedianPrice": 1070000000,
+      "deviationRatio": 0.4299
     }
   ],
   "latestTrade": {
-    "tradeDate": "2026-07-29",
-    "dealPrice": 610000000,
-    "floor": 9,
-    "exclusiveArea": 84.9,
-    "pyeongTypeNumber": 3,
+    "tradeDate": "2026-11-07",
+    "dealPrice": 1120000000,
+    "floor": 14,
+    "exclusiveArea": 84.51,
+    "pyeongTypeNumber": 5,
     "tradeYear": "2026",
     "tradeCategory": "중개거래",
-    "isDelete": true,
+    "isDelete": false,
     "propertyType": "NORMAL",
     "isRenew": false,
     "deposit": 0,
