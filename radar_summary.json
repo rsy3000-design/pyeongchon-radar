@@ -1,8 +1,8 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_summary",
-  "collectedAtKST": "2026-11-14T07:00:44+09:00",
-  "runId": "dS18lk0gHrp2rJxld",
+  "collectedAtKST": "2026-11-15T07:00:26+09:00",
+  "runId": "NEyYbdnkJagA9Kkz0",
   "source": "Naver Pay Real Estate Chrome navigation",
   "targetCount": 8,
   "successfulTargetCount": 8,
@@ -1558,7 +1558,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 17,
+        "count": 16,
         "minPrice": 1050000000,
         "maxPrice": 1250000000,
         "medianPrice": 1150000000,
@@ -2093,10 +2093,10 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 12,
+        "count": 11,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
-        "medianPrice": 1122500000,
+        "medianPrice": 1115000000,
         "knownNormalMinPrice": 1050000000,
         "knownNormalMaxPrice": 1115000000,
         "radarNormalCandidateMinPrice": 1050000000,
@@ -2104,7 +2104,7 @@
         "radarNormalCandidateCount": 5,
         "detailCheckedCount": 6,
         "detailSuccessCount": 6,
-        "detailTargetMax": 12,
+        "detailTargetMax": 11,
         "detailScope": "dynamic_min_6_normal_3_max_12"
       },
       "bestListings": [
@@ -3679,7 +3679,7 @@
           "exclusiveArea": 84.99,
           "pyeongTypeNumber": 1,
           "dongName": null,
-          "floorText": "저/15층",
+          "floorText": "1/15층",
           "description": null,
           "detailFound": true,
           "detailSkipped": null,
@@ -5688,7 +5688,7 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 17,
+        "count": 16,
         "minPrice": 1050000000,
         "maxPrice": 1250000000,
         "medianPrice": 1150000000,
@@ -6226,10 +6226,10 @@
       "qualityFlags": [],
       "fatalError": null,
       "asking": {
-        "count": 12,
+        "count": 11,
         "minPrice": 1050000000,
         "maxPrice": 1200000000,
-        "medianPrice": 1122500000,
+        "medianPrice": 1115000000,
         "knownNormalMinPrice": 1050000000,
         "knownNormalMaxPrice": 1115000000,
         "radarNormalCandidateMinPrice": 1050000000,
@@ -6237,7 +6237,7 @@
         "radarNormalCandidateCount": 5,
         "detailCheckedCount": 6,
         "detailSuccessCount": 6,
-        "detailTargetMax": 12,
+        "detailTargetMax": 11,
         "detailScope": "dynamic_min_6_normal_3_max_12"
       },
       "bestListings": [
@@ -7821,7 +7821,7 @@
           "exclusiveArea": 84.99,
           "pyeongTypeNumber": 1,
           "dongName": null,
-          "floorText": "저/15층",
+          "floorText": "1/15층",
           "description": null,
           "detailFound": true,
           "detailSkipped": null,
@@ -8307,7 +8307,7 @@
     "fallbackPolicy": "오늘 실패 단지는 RADAR_*_LAST_GOOD를 effectiveTargets에 사용"
   },
   "publicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/RADAR_SUMMARY?signature=1RxJ3hKPJevhylL9UM33s",
-  "historyDate": "2026-11-14",
-  "historyRecord": "HISTORY_2026-11-14",
-  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-11-14?signature=7fjl0dZ8niRJW76nWGqe"
+  "historyDate": "2026-11-15",
+  "historyRecord": "HISTORY_2026-11-15",
+  "historyPublicUrl": "https://api.apify.com/v2/key-value-stores/QTKQiKLSKf7x9DUaj/records/HISTORY_2026-11-15?signature=DuV5p6DhA7pmzYBpURsi"
 }
