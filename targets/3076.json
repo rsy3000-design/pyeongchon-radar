@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-17T07:02:51+09:00",
+  "collectedAtKST": "2026-11-18T07:02:50+09:00",
   "name": "관악타운",
   "targetLabel": "84㎡",
   "complexNumber": 3076,
@@ -17,7 +17,7 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 16,
+    "count": 17,
     "minPrice": 1050000000,
     "maxPrice": 1250000000,
     "medianPrice": 1150000000,
@@ -211,6 +211,23 @@
       "lowFloorOnly": false,
       "normalCandidate": false,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2661141613"
+    },
+    {
+      "articleNumber": "2662492756",
+      "dealPrice": 1180000000,
+      "exclusiveArea": 84.94,
+      "pyeongTypeNumber": 3,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2662492756"
     },
     {
       "articleNumber": "2662074327",
