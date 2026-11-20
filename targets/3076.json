@@ -1,7 +1,7 @@
 {
   "schemaVersion": "2.0",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-20T07:00:41+09:00",
+  "collectedAtKST": "2026-11-21T07:02:41+09:00",
   "name": "관악타운",
   "targetLabel": "84㎡",
   "complexNumber": 3076,
@@ -17,7 +17,7 @@
   "qualityStatus": "OK",
   "qualityFlags": [],
   "asking": {
-    "count": 16,
+    "count": 17,
     "minPrice": 1050000000,
     "maxPrice": 1250000000,
     "medianPrice": 1150000000,
@@ -71,6 +71,23 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658164103"
     },
     {
+      "articleNumber": "2663053496",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.94,
+      "pyeongTypeNumber": 3,
+      "dongName": "134",
+      "floorText": "8/17층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496"
+    },
+    {
       "articleNumber": "2661110390",
       "dealPrice": 1100000000,
       "exclusiveArea": 84.94,
@@ -88,23 +105,6 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390"
-    },
-    {
-      "articleNumber": "2659540798",
-      "dealPrice": 1100000000,
-      "exclusiveArea": 84.94,
-      "pyeongTypeNumber": 3,
-      "dongName": "134",
-      "floorText": "8/17층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2659540798"
     },
     {
       "articleNumber": "2657526280",
@@ -230,6 +230,23 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2662492756"
     },
     {
+      "articleNumber": "2663157928",
+      "dealPrice": 1200000000,
+      "exclusiveArea": 84.72,
+      "pyeongTypeNumber": 5,
+      "dongName": null,
+      "floorText": null,
+      "description": null,
+      "detailFound": false,
+      "detailSkipped": "dynamic_detail_limit",
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": false,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663157928"
+    },
+    {
       "articleNumber": "2662074327",
       "dealPrice": 1200000000,
       "exclusiveArea": 84.9,
@@ -334,6 +351,23 @@
       "articleDetailUrl": "https://fin.land.naver.com/articles/2658164103"
     },
     {
+      "articleNumber": "2663053496",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.94,
+      "pyeongTypeNumber": 3,
+      "dongName": "134",
+      "floorText": "8/17층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496"
+    },
+    {
       "articleNumber": "2661110390",
       "dealPrice": 1100000000,
       "exclusiveArea": 84.94,
@@ -351,23 +385,6 @@
       "lowFloorOnly": true,
       "normalCandidate": true,
       "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390"
-    },
-    {
-      "articleNumber": "2659540798",
-      "dealPrice": 1100000000,
-      "exclusiveArea": 84.94,
-      "pyeongTypeNumber": 3,
-      "dongName": "134",
-      "floorText": "8/17층",
-      "description": null,
-      "detailFound": true,
-      "detailSkipped": null,
-      "detailError": null,
-      "specialReasons": [],
-      "hardSpecialReasons": [],
-      "lowFloorOnly": false,
-      "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2659540798"
     },
     {
       "articleNumber": "2657526280",
