@@ -1,21 +1,17 @@
 {
   "schemaVersion": "1.0",
   "type": "pyeongchon_radar_health",
-  "collectedAtKST": "2026-11-21T07:02:41+09:00",
-  "runId": "S7rsU9VpOC8Wlge1O",
-  "status": "DEGRADED",
-  "flags": [
-    "DATA_QUALITY_WARNING"
-  ],
+  "collectedAtKST": "2026-11-27T07:02:41+09:00",
+  "runId": "Ruu3blgxeRDSBI2p0",
+  "status": "OK",
+  "flags": [],
   "selfTestPassed": true,
   "selfTestIssues": [],
   "successfulTargetCount": 8,
   "targetCount": 8,
   "allTargetsSuccessful": true,
-  "summaryQualityStatus": "WARNING",
-  "summaryQualityFlags": [
-    "TARGET_QUALITY_WARNING"
-  ],
+  "summaryQualityStatus": "OK",
+  "summaryQualityFlags": [],
   "githubTokenConfigured": true,
   "githubMirrorAllSuccessful": true,
   "githubMirrorSuccessCount": 10,
