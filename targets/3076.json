@@ -1,7 +1,7 @@
 {
-  "schemaVersion": "2.0",
+  "schemaVersion": "2.1",
   "type": "pyeongchon_radar_target",
-  "collectedAtKST": "2026-11-27T07:02:41+09:00",
+  "collectedAtKST": "2026-11-27T11:01:42+09:00",
   "name": "관악타운",
   "targetLabel": "84㎡",
   "complexNumber": 3076,
@@ -26,6 +26,13 @@
     "radarNormalCandidateMinPrice": 1090000000,
     "radarNormalCandidateMaxPrice": 1150000000,
     "radarNormalCandidateCount": 5,
+    "moveInDeadline": "2027-02-28",
+    "moveInCandidateMinPrice": 1100000000,
+    "moveInCandidateCount": 3,
+    "moveInCheaperUnresolvedCount": 0,
+    "moveInPendingCount": 0,
+    "moveInExcludedCount": 3,
+    "moveInUncheckedCount": 13,
     "detailCheckedCount": 6,
     "detailSuccessCount": 6,
     "detailTargetMax": 12,
@@ -51,7 +58,21 @@
       ],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199762"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199762",
+      "moveInRaw": "2027년 10월 중순 협의 가능",
+      "moveInRawAlternatives": [
+        "2027년 10월 중순 협의 가능"
+      ],
+      "moveInDate": "2027-10-31",
+      "moveInDatePrecision": "MONTH_END",
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "EXCLUDED",
+      "moveInReason": "입주가능일 허용기한 초과",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2658164103",
@@ -68,7 +89,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658164103"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658164103",
+      "moveInRaw": "2027년 03월 하순 협의 가능",
+      "moveInRawAlternatives": [
+        "2027년 03월 하순 협의 가능"
+      ],
+      "moveInDate": "2027-03-31",
+      "moveInDatePrecision": "MONTH_END",
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "EXCLUDED",
+      "moveInReason": "입주가능일 허용기한 초과",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2663053496",
@@ -85,7 +120,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2663609083",
@@ -104,7 +153,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2661110390",
@@ -123,7 +186,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2664199582",
@@ -140,7 +217,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199582"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199582",
+      "moveInRaw": "2028년 02월 초순 협의 가능",
+      "moveInRawAlternatives": [
+        "2028년 02월 초순 협의 가능"
+      ],
+      "moveInDate": "2028-02-29",
+      "moveInDatePrecision": "MONTH_END",
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": "4억 4,500만원",
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "EXCLUDED",
+      "moveInReason": "입주가능일 허용기한 초과",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2661266162",
@@ -157,7 +248,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661266162"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661266162",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2662749512",
@@ -174,7 +277,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2662749512"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2662749512",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2663847298",
@@ -191,7 +306,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663847298"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663847298",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2662139146",
@@ -208,7 +335,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2662139146"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2662139146",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2664295596",
@@ -225,7 +364,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2664295596"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2664295596",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2661141613",
@@ -242,7 +393,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661141613"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661141613",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2662492756",
@@ -259,7 +422,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2662492756"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2662492756",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2663157928",
@@ -276,7 +451,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663157928"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663157928",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2662074327",
@@ -293,7 +480,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2662074327"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2662074327",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2661477249",
@@ -310,7 +509,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661477249"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661477249",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2664199881",
@@ -327,7 +538,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199881"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199881",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2658466557",
@@ -344,7 +567,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658466557"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658466557",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2662673840",
@@ -361,7 +596,19 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2662673840"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2662673840",
+      "moveInRaw": null,
+      "moveInRawAlternatives": [],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "UNKNOWN",
+      "moveInReason": "미조회 또는 구버전 데이터",
+      "moveInCandidate": false
     }
   ],
   "normalCandidates": [
@@ -380,7 +627,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2658164103"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2658164103",
+      "moveInRaw": "2027년 03월 하순 협의 가능",
+      "moveInRawAlternatives": [
+        "2027년 03월 하순 협의 가능"
+      ],
+      "moveInDate": "2027-03-31",
+      "moveInDatePrecision": "MONTH_END",
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "EXCLUDED",
+      "moveInReason": "입주가능일 허용기한 초과",
+      "moveInCandidate": false
     },
     {
       "articleNumber": "2663053496",
@@ -397,7 +658,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2663609083",
@@ -416,7 +691,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2661110390",
@@ -435,7 +724,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2664199582",
@@ -452,7 +755,120 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": false,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199582"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199582",
+      "moveInRaw": "2028년 02월 초순 협의 가능",
+      "moveInRawAlternatives": [
+        "2028년 02월 초순 협의 가능"
+      ],
+      "moveInDate": "2028-02-29",
+      "moveInDatePrecision": "MONTH_END",
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": "4억 4,500만원",
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "EXCLUDED",
+      "moveInReason": "입주가능일 허용기한 초과",
+      "moveInCandidate": false
+    }
+  ],
+  "moveInCandidates": [
+    {
+      "articleNumber": "2663053496",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.94,
+      "pyeongTypeNumber": 3,
+      "dongName": "134",
+      "floorText": "8/17층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": false,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663053496",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
+    },
+    {
+      "articleNumber": "2663609083",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.94,
+      "pyeongTypeNumber": 3,
+      "dongName": "124",
+      "floorText": "저/17층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
+    },
+    {
+      "articleNumber": "2661110390",
+      "dealPrice": 1100000000,
+      "exclusiveArea": 84.94,
+      "pyeongTypeNumber": 3,
+      "dongName": "121",
+      "floorText": "저/15층",
+      "description": null,
+      "detailFound": true,
+      "detailSkipped": null,
+      "detailError": null,
+      "specialReasons": [
+        "저층"
+      ],
+      "hardSpecialReasons": [],
+      "lowFloorOnly": true,
+      "normalCandidate": true,
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     }
   ],
   "lowFloorOnlyCandidates": [
@@ -473,7 +889,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2663609083",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     },
     {
       "articleNumber": "2661110390",
@@ -492,7 +922,21 @@
       "hardSpecialReasons": [],
       "lowFloorOnly": true,
       "normalCandidate": true,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2661110390",
+      "moveInRaw": "즉시입주",
+      "moveInRawAlternatives": [
+        "즉시입주"
+      ],
+      "moveInDate": null,
+      "moveInDatePrecision": null,
+      "moveInImmediate": true,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "ELIGIBLE",
+      "moveInReason": "광고상 허용기한 내 입주 가능 (계약 전 명도 재검증)",
+      "moveInCandidate": true
     }
   ],
   "hardSpecialListings": [
@@ -515,7 +959,21 @@
       ],
       "lowFloorOnly": false,
       "normalCandidate": false,
-      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199762"
+      "articleDetailUrl": "https://fin.land.naver.com/articles/2664199762",
+      "moveInRaw": "2027년 10월 중순 협의 가능",
+      "moveInRawAlternatives": [
+        "2027년 10월 중순 협의 가능"
+      ],
+      "moveInDate": "2027-10-31",
+      "moveInDatePrecision": "MONTH_END",
+      "moveInImmediate": false,
+      "leaseExpiryRaw": [],
+      "leaseExpiryDate": null,
+      "existingDepositRaw": null,
+      "moveInDeadline": "2027-02-28",
+      "moveInStatus": "EXCLUDED",
+      "moveInReason": "입주가능일 허용기한 초과",
+      "moveInCandidate": false
     }
   ],
   "recentTrades": [
